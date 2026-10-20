@@ -1,0 +1,290 @@
+[
+  {
+    "existing_doc_id": "OMbeAznPXFMfiIOFIDX5",
+    "artwork_title": "Woman in Landscape",
+    "field_changes": [
+      {
+        "field": "artist_description",
+        "excel_column": "artist_bio_ko",
+        "before": "(없음)",
+        "after": "청년 반 두스부르크는 휘몰아치는 구름처럼 불안했던 내면의 혼란과 팽팽한 긴장 속에서 거친 붓질로 방황하곤 했습니다. 미래를 예측할 수 없는 흔들림 속에서도 그는 삶을 통제하듯 깊은 고요와 안정감을 화면에 담았습니다. 그는 이 긴장감을 어둠 속에서 굳건히 서 있는 인물의 실루엣으로 바꿔, 오롯이 내면에 집중하는 숭고한 외로움의 미학으로 매우 멋지게 승화시켰습니다. 들판을 뚫고 나온 이 단단함은 세상을 조화롭게 연결하는 추상 예술의 거대한 원동력이 되었습니다. 바람이 거세도 당신의 중심은 절대 흔들리지 않습니다."
+      }
+    ],
+    "before": {
+      "title": "Woman in Landscape",
+      "artist_name": "Theo van Doesburg",
+      "artist_description": "(없음)",
+      "emotion_tag_1": "긴장",
+      "emotion_tag_2": "외로움",
+      "emotion_tag_3": "",
+      "image_url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Woman_in_Landscape_by_Theo_van_Doesburg_AB4045.jpg",
+      "index": null,
+      "content_type": "(없음)"
+    },
+    "after_proposed": {
+      "title": "Woman in Landscape",
+      "artist_name": "Theo van Doesburg",
+      "artist_description": "청년 반 두스부르크는 휘몰아치는 구름처럼 불안했던 내면의 혼란과 팽팽한 긴장 속에서 거친 붓질로 방황하곤 했습니다. 미래를 예측할 수 없는 흔들림 속에서도 그는 삶을 통제하듯 깊은 고요와 안정감을 화면에 담았습니다. 그는 이 긴장감을 어둠 속에서 굳건히 서 있는 인물의 실루엣으로 바꿔, 오롯이 내면에 집중하는 숭고한 외로움의 미학으로 매우 멋지게 승화시켰습니다. 들판을 뚫고 나온 이 단단함은 세상을 조화롭게 연결하는 추상 예술의 거대한 원동력이 되었습니다. 바람이 거세도 당신의 중심은 절대 흔들리지 않습니다.",
+      "emotion_tag_1": "긴장",
+      "emotion_tag_2": "외로움",
+      "emotion_tag_3": "(없음)",
+      "image_url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Woman_in_Landscape_by_Theo_van_Doesburg_AB4045.jpg",
+      "index": "(기존 값 유지)",
+      "content_type": "(이번 작업에서 자동 지정하지 않음 — 별도 승인 필요)",
+      "source_excel_image_url_candidate": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Woman_in_Landscape_by_Theo_van_Doesburg_AB4045.jpg"
+    },
+    "note": "실제 반영 아님 — dry-run 미리보기"
+  },
+  {
+    "existing_doc_id": "KpNEPunasWgEIwgnXIfv",
+    "artwork_title": "Self-protrait with hat, 1906",
+    "field_changes": [
+      {
+        "field": "artist_description",
+        "excel_column": "artist_bio_ko",
+        "before": "(없음)",
+        "after": "20대 초반 독학 화가였던 반 두스부르크는 정체성을 찾아 헤매며 내면의 혼란과 팽팽한 긴장감을 견뎌야 했습니다. 예측할 수 없는 미래 속에서 온전한 통제와 따뜻한 연결감을 구하던 그 시간은 그에게도 고독의 연속이었습니다. 하지만 그는 모자 그림자 아래 또렷한 눈빛을 세워 올리며, 외부의 시선에 굴하지 않고 오롯이 자아를 관조하는 당당한 외로움의 미학으로 이를 멋지게 승화시켰습니다! 두터운 붉은 필치와 직시하는 시선은 마침내 그를 독자적인 화가로 서게 만들었죠. 어떤 흔들림도 당신 고유의 단단한 중심을 결코 무너뜨릴 수 없습니다."
+      }
+    ],
+    "before": {
+      "title": "Self-protrait with hat, 1906",
+      "artist_name": "Theo van Doesburg",
+      "artist_description": "(없음)",
+      "emotion_tag_1": "긴장",
+      "emotion_tag_2": "외로움",
+      "emotion_tag_3": "",
+      "image_url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Theo_van_Doesburg_Selfportrait_with_hat.jpg",
+      "index": null,
+      "content_type": "(없음)"
+    },
+    "after_proposed": {
+      "title": "Self-protrait with hat, 1906",
+      "artist_name": "Theo van Doesburg",
+      "artist_description": "20대 초반 독학 화가였던 반 두스부르크는 정체성을 찾아 헤매며 내면의 혼란과 팽팽한 긴장감을 견뎌야 했습니다. 예측할 수 없는 미래 속에서 온전한 통제와 따뜻한 연결감을 구하던 그 시간은 그에게도 고독의 연속이었습니다. 하지만 그는 모자 그림자 아래 또렷한 눈빛을 세워 올리며, 외부의 시선에 굴하지 않고 오롯이 자아를 관조하는 당당한 외로움의 미학으로 이를 멋지게 승화시켰습니다! 두터운 붉은 필치와 직시하는 시선은 마침내 그를 독자적인 화가로 서게 만들었죠. 어떤 흔들림도 당신 고유의 단단한 중심을 결코 무너뜨릴 수 없습니다.",
+      "emotion_tag_1": "긴장",
+      "emotion_tag_2": "외로움",
+      "emotion_tag_3": "(없음)",
+      "image_url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Theo_van_Doesburg_Selfportrait_with_hat.jpg",
+      "index": "(기존 값 유지)",
+      "content_type": "(이번 작업에서 자동 지정하지 않음 — 별도 승인 필요)",
+      "source_excel_image_url_candidate": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Theo_van_Doesburg_Selfportrait_with_hat.jpg"
+    },
+    "note": "실제 반영 아님 — dry-run 미리보기"
+  },
+  {
+    "existing_doc_id": "LiFbB5dH1L80Ao8Dj1F7",
+    "artwork_title": "Self-protrait, 1915",
+    "field_changes": [
+      {
+        "field": "artist_description",
+        "excel_column": "artist_bio_ko",
+        "before": "(없음)",
+        "after": "1915년 전쟁의 격랑 속에 징집된 반 두스부르크는 군복 깃을 세운 채 깊은 긴장감을 견뎌내야 했습니다. 불투명한 현실 속에서 명료한 질서와 안정감을 간절히 구하던 그의 불안은 화면 속 차가운 청록빛 어둠에 고스란히 투영되어 있죠. 하지만 그는 얼굴을 기하학적 면으로 분할하는 과감한 조형 실험을 통해 이 내면의 혼란을 위대한 질서의 미학으로 완벽히 승화시켰습니다! 거친 임파스토 붓질과 직시하는 눈빛은 혼란을 뚫고 추상의 시대를 개척하는 힘찬 선언이 되었습니다. 어두운 혼란 속에서도 당신만의 온전하고 빛나는 질서가 피어납니다."
+      }
+    ],
+    "before": {
+      "title": "Self-protrait, 1915",
+      "artist_name": "Theo van Doesburg",
+      "artist_description": "(없음)",
+      "emotion_tag_1": "긴장",
+      "emotion_tag_2": "혼란",
+      "emotion_tag_3": "",
+      "image_url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Self-portrait_by_Theo_van_Doesburg_(1915).jpg",
+      "index": null,
+      "content_type": "(없음)"
+    },
+    "after_proposed": {
+      "title": "Self-protrait, 1915",
+      "artist_name": "Theo van Doesburg",
+      "artist_description": "1915년 전쟁의 격랑 속에 징집된 반 두스부르크는 군복 깃을 세운 채 깊은 긴장감을 견뎌내야 했습니다. 불투명한 현실 속에서 명료한 질서와 안정감을 간절히 구하던 그의 불안은 화면 속 차가운 청록빛 어둠에 고스란히 투영되어 있죠. 하지만 그는 얼굴을 기하학적 면으로 분할하는 과감한 조형 실험을 통해 이 내면의 혼란을 위대한 질서의 미학으로 완벽히 승화시켰습니다! 거친 임파스토 붓질과 직시하는 눈빛은 혼란을 뚫고 추상의 시대를 개척하는 힘찬 선언이 되었습니다. 어두운 혼란 속에서도 당신만의 온전하고 빛나는 질서가 피어납니다.",
+      "emotion_tag_1": "긴장",
+      "emotion_tag_2": "혼란",
+      "emotion_tag_3": "(없음)",
+      "image_url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Self-portrait_by_Theo_van_Doesburg_(1915).jpg",
+      "index": "(기존 값 유지)",
+      "content_type": "(이번 작업에서 자동 지정하지 않음 — 별도 승인 필요)",
+      "source_excel_image_url_candidate": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Self-portrait_by_Theo_van_Doesburg_(1915).jpg"
+    },
+    "note": "실제 반영 아님 — dry-run 미리보기"
+  },
+  {
+    "existing_doc_id": "KYUcFgB6QAQa04ThJKQ8",
+    "artwork_title": "Composition, 1915",
+    "field_changes": [
+      {
+        "field": "artist_description",
+        "excel_column": "artist_bio_ko",
+        "before": "(없음)",
+        "after": "1910년대 기존 화풍의 한계를 벗어나 깊은 내면의 혼란을 겪던 반 두스부르크는, 새로운 성장의 가능성을 향한 두근거리는 설렘을 품었습니다. 명료한 질서를 구하던 그의 고민은 화면 속 오묘한 파동으로 남아 있죠. 하지만 그는 소용돌이치는 노란 파스텔선과 세포 모티프를 그려내어 이 거친 요동을 찬란한 우주적 희망으로 매우 멋지게 승화시켰습니다! 어둠을 찢고 발광하는 빛은 내면의 혼란이 새로운 세계를 펼쳐낼 가슴 뛰는 시작임을 힘있게 증명해 줍니다. 지금 마음속 회전하는 소용돌이 역시 곧 찬란히 피어날 희망의 시작입니다."
+      }
+    ],
+    "before": {
+      "title": "Composition, 1915",
+      "artist_name": "Theo van Doesburg",
+      "artist_description": "(없음)",
+      "emotion_tag_1": "설렘",
+      "emotion_tag_2": "희망",
+      "emotion_tag_3": "",
+      "image_url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Theo_van_Doesburg_166.jpg",
+      "index": null,
+      "content_type": "(없음)"
+    },
+    "after_proposed": {
+      "title": "Composition, 1915",
+      "artist_name": "Theo van Doesburg",
+      "artist_description": "1910년대 기존 화풍의 한계를 벗어나 깊은 내면의 혼란을 겪던 반 두스부르크는, 새로운 성장의 가능성을 향한 두근거리는 설렘을 품었습니다. 명료한 질서를 구하던 그의 고민은 화면 속 오묘한 파동으로 남아 있죠. 하지만 그는 소용돌이치는 노란 파스텔선과 세포 모티프를 그려내어 이 거친 요동을 찬란한 우주적 희망으로 매우 멋지게 승화시켰습니다! 어둠을 찢고 발광하는 빛은 내면의 혼란이 새로운 세계를 펼쳐낼 가슴 뛰는 시작임을 힘있게 증명해 줍니다. 지금 마음속 회전하는 소용돌이 역시 곧 찬란히 피어날 희망의 시작입니다.",
+      "emotion_tag_1": "설렘",
+      "emotion_tag_2": "희망",
+      "emotion_tag_3": "(없음)",
+      "image_url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Theo_van_Doesburg_166.jpg",
+      "index": "(기존 값 유지)",
+      "content_type": "(이번 작업에서 자동 지정하지 않음 — 별도 승인 필요)",
+      "source_excel_image_url_candidate": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Theo_van_Doesburg_166.jpg"
+    },
+    "note": "실제 반영 아님 — dry-run 미리보기"
+  },
+  {
+    "existing_doc_id": "y5k0cqUwejbA3ST5JQ3v",
+    "artwork_title": "Composition l",
+    "field_changes": [
+      {
+        "field": "artist_description",
+        "excel_column": "artist_bio_ko",
+        "before": "(없음)",
+        "after": "1916년 전쟁의 혼란 속에서 반 두스부르크는 예측하기 힘든 현실이 전하는 팽팽한 긴장감을 견뎌내야 했습니다. 명료한 안정감과 통제를 간절히 구하던 그의 이성적인 고민은 화면 속 서늘한 보랏빛 그리드 위에 차분하게 투영되어 있죠. 하지만 그는 정물의 복잡한 외형을 완벽한 기하학적 구조로 해체하며 내면의 혼란을 담대한 용기로 당당히 승화시켰습니다! 피라미드 구도로 정교하게 쌓아 올린 보색 색면들은 현실의 한계를 뛰어넘어 찬란한 성장의 가능성을 선언하는 힘찬 도약이 되었죠. 혼란을 딛고 일어설 당신 내부의 단단한 용기를 믿으세요."
+      }
+    ],
+    "before": {
+      "title": "Composition l",
+      "artist_name": "Theo van Doesburg",
+      "artist_description": "(없음)",
+      "emotion_tag_1": "긴장",
+      "emotion_tag_2": "용기",
+      "emotion_tag_3": "",
+      "image_url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Theo_van_Doesburg_Composition_I.jpg",
+      "index": null,
+      "content_type": "(없음)"
+    },
+    "after_proposed": {
+      "title": "Composition l",
+      "artist_name": "Theo van Doesburg",
+      "artist_description": "1916년 전쟁의 혼란 속에서 반 두스부르크는 예측하기 힘든 현실이 전하는 팽팽한 긴장감을 견뎌내야 했습니다. 명료한 안정감과 통제를 간절히 구하던 그의 이성적인 고민은 화면 속 서늘한 보랏빛 그리드 위에 차분하게 투영되어 있죠. 하지만 그는 정물의 복잡한 외형을 완벽한 기하학적 구조로 해체하며 내면의 혼란을 담대한 용기로 당당히 승화시켰습니다! 피라미드 구도로 정교하게 쌓아 올린 보색 색면들은 현실의 한계를 뛰어넘어 찬란한 성장의 가능성을 선언하는 힘찬 도약이 되었죠. 혼란을 딛고 일어설 당신 내부의 단단한 용기를 믿으세요.",
+      "emotion_tag_1": "긴장",
+      "emotion_tag_2": "용기",
+      "emotion_tag_3": "(없음)",
+      "image_url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Theo_van_Doesburg_Composition_I.jpg",
+      "index": "(기존 값 유지)",
+      "content_type": "(이번 작업에서 자동 지정하지 않음 — 별도 승인 필요)",
+      "source_excel_image_url_candidate": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Theo_van_Doesburg_Composition_I.jpg"
+    },
+    "note": "실제 반영 아님 — dry-run 미리보기"
+  },
+  {
+    "existing_doc_id": "9YAs3CuxnnobIslMPNBJ",
+    "artwork_title": "Composition VII (the three graces), 1917",
+    "field_changes": [
+      {
+        "field": "artist_description",
+        "excel_column": "artist_bio_ko",
+        "before": "(없음)",
+        "after": "1917년 전쟁의 비극적 소용돌이 속에서 반 두스부르크는 깊은 내면의 혼란을 마주해야 했습니다. 하지만 그는 막막함에 갇히는 대신, 완전히 새로운 예술로 향하는 가슴 뛰는 설렘 속에서 조형적 성장의 가능성을 모색했죠. 그렇게 탄생한 데 스틸의 원색 직사각형들은 어둠을 뚫고 솟아오르며 내면의 혼란을 담대한 용기로 당당히 승화시켰습니다! 칠흑 같은 검은 바탕을 가르는 명쾌한 비대칭적 조화는 당신의 도전을 이끌어 줄 강력한 에너지로 빛납니다. 당신 안의 요동치는 파동 역시 곧 눈부신 성장의 용기가 될 것입니다."
+      }
+    ],
+    "before": {
+      "title": "Composition VII (the three graces), 1917",
+      "artist_name": "Theo van Doesburg",
+      "artist_description": "(없음)",
+      "emotion_tag_1": "설렘",
+      "emotion_tag_2": "용기",
+      "emotion_tag_3": "",
+      "image_url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Theo_van_Doesburg_Composition_VII_(the_three_graces).jpg",
+      "index": null,
+      "content_type": "(없음)"
+    },
+    "after_proposed": {
+      "title": "Composition VII (the three graces), 1917",
+      "artist_name": "Theo van Doesburg",
+      "artist_description": "1917년 전쟁의 비극적 소용돌이 속에서 반 두스부르크는 깊은 내면의 혼란을 마주해야 했습니다. 하지만 그는 막막함에 갇히는 대신, 완전히 새로운 예술로 향하는 가슴 뛰는 설렘 속에서 조형적 성장의 가능성을 모색했죠. 그렇게 탄생한 데 스틸의 원색 직사각형들은 어둠을 뚫고 솟아오르며 내면의 혼란을 담대한 용기로 당당히 승화시켰습니다! 칠흑 같은 검은 바탕을 가르는 명쾌한 비대칭적 조화는 당신의 도전을 이끌어 줄 강력한 에너지로 빛납니다. 당신 안의 요동치는 파동 역시 곧 눈부신 성장의 용기가 될 것입니다.",
+      "emotion_tag_1": "설렘",
+      "emotion_tag_2": "용기",
+      "emotion_tag_3": "(없음)",
+      "image_url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Theo_van_Doesburg_Composition_VII_(the_three_graces).jpg",
+      "index": "(기존 값 유지)",
+      "content_type": "(이번 작업에서 자동 지정하지 않음 — 별도 승인 필요)",
+      "source_excel_image_url_candidate": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Theo_van_Doesburg_Composition_VII_(the_three_graces).jpg"
+    },
+    "note": "실제 반영 아님 — dry-run 미리보기"
+  },
+  {
+    "existing_doc_id": "nhKbDb15b2jDoJtK5Qep",
+    "artwork_title": "Counter composition XIII, 1929",
+    "field_changes": [
+      {
+        "field": "artist_description",
+        "excel_column": "artist_bio_ko",
+        "before": "(없음)",
+        "after": "테오 반 두스부르크는 몬드리안의 수직, 수평 법칙이라는 기존의 견고한 질서를 깨고 대각선을 도입하는 과정에서 동료와의 갈등과 불확실성이라는 큰 긴장을 마주해야 했습니다. 예측 가능한 안정감을 벗어나 새로운 이론을 정립하는 고독한 도전의 시간이었습니다. 하지만 그는 그 불안한 긴장감을 캔버스 위 대각선이라는 강력한 역동적 에너지로 전환시켰습니다! 비대칭적인 균형 속에서 충돌하는 강렬한 원색들은 단순한 통제를 넘어 끊임없이 상호작용하는 우주의 동적 활력에 대한 설렘을 강력하게 선언합니다. 긴장은 당신을 새로운 세계로 이끄는 활기찬 에너지의 시작입니다."
+      }
+    ],
+    "before": {
+      "title": "Counter composition XIII, 1929",
+      "artist_name": "Theo van Doesburg",
+      "artist_description": "(없음)",
+      "emotion_tag_1": "긴장",
+      "emotion_tag_2": "설렘",
+      "emotion_tag_3": "",
+      "image_url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Vandoesburg_Counter_composition_XIII.jpg",
+      "index": null,
+      "content_type": "(없음)"
+    },
+    "after_proposed": {
+      "title": "Counter composition XIII, 1929",
+      "artist_name": "Theo van Doesburg",
+      "artist_description": "테오 반 두스부르크는 몬드리안의 수직, 수평 법칙이라는 기존의 견고한 질서를 깨고 대각선을 도입하는 과정에서 동료와의 갈등과 불확실성이라는 큰 긴장을 마주해야 했습니다. 예측 가능한 안정감을 벗어나 새로운 이론을 정립하는 고독한 도전의 시간이었습니다. 하지만 그는 그 불안한 긴장감을 캔버스 위 대각선이라는 강력한 역동적 에너지로 전환시켰습니다! 비대칭적인 균형 속에서 충돌하는 강렬한 원색들은 단순한 통제를 넘어 끊임없이 상호작용하는 우주의 동적 활력에 대한 설렘을 강력하게 선언합니다. 긴장은 당신을 새로운 세계로 이끄는 활기찬 에너지의 시작입니다.",
+      "emotion_tag_1": "긴장",
+      "emotion_tag_2": "설렘",
+      "emotion_tag_3": "(없음)",
+      "image_url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Vandoesburg_Counter_composition_XIII.jpg",
+      "index": "(기존 값 유지)",
+      "content_type": "(이번 작업에서 자동 지정하지 않음 — 별도 승인 필요)",
+      "source_excel_image_url_candidate": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Vandoesburg_Counter_composition_XIII.jpg"
+    },
+    "note": "실제 반영 아님 — dry-run 미리보기"
+  },
+  {
+    "existing_doc_id": "zxbRWRvRmgQzNffGpjrk",
+    "artwork_title": "Card players, 1916–1917",
+    "field_changes": [
+      {
+        "field": "artist_description",
+        "excel_column": "artist_bio_ko",
+        "before": "(없음)",
+        "after": "테오 반 두스부르크는 세계대전의 격동 속에서 구상과 추상의 갈림길에 서며 미래에 대한 극심한 긴장과 내면의 혼란을 겪었습니다. 예측 불가능한 현실은 끊임없이 그의 안정감을 위협했고, 새로운 예술적 도전은 마치 끝나지 않는 고독한 싸움처럼 느껴졌을 것입니다. 하지만 그는 이 불안을 냉철한 이성으로 통제하여, 만물의 보편적 질서와 조화를 상징하는 찬란한 기하학적 미학으로 승화시키는 용기를 보여주었습니다! 흑백의 강렬한 대비 위에 역동적으로 살아 꿈틀거리는 원색의 평면들은 혼란을 딛고 일어선 극복과 성장의 무한한 가능성을 완벽하게 증명해 냅니다. 혼란스러운 터널 끝엔 당신만의 굳건한 질서가 기다립니다."
+      }
+    ],
+    "before": {
+      "title": "Card players, 1916–1917",
+      "artist_name": "Theo van Doesburg",
+      "artist_description": "(없음)",
+      "emotion_tag_1": "긴장",
+      "emotion_tag_2": "용기",
+      "emotion_tag_3": "",
+      "image_url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Theo_van_Doesburg_-_Card_players_-_Google_Art_Project.jpg",
+      "index": null,
+      "content_type": "(없음)"
+    },
+    "after_proposed": {
+      "title": "Card players, 1916–1917",
+      "artist_name": "Theo van Doesburg",
+      "artist_description": "테오 반 두스부르크는 세계대전의 격동 속에서 구상과 추상의 갈림길에 서며 미래에 대한 극심한 긴장과 내면의 혼란을 겪었습니다. 예측 불가능한 현실은 끊임없이 그의 안정감을 위협했고, 새로운 예술적 도전은 마치 끝나지 않는 고독한 싸움처럼 느껴졌을 것입니다. 하지만 그는 이 불안을 냉철한 이성으로 통제하여, 만물의 보편적 질서와 조화를 상징하는 찬란한 기하학적 미학으로 승화시키는 용기를 보여주었습니다! 흑백의 강렬한 대비 위에 역동적으로 살아 꿈틀거리는 원색의 평면들은 혼란을 딛고 일어선 극복과 성장의 무한한 가능성을 완벽하게 증명해 냅니다. 혼란스러운 터널 끝엔 당신만의 굳건한 질서가 기다립니다.",
+      "emotion_tag_1": "긴장",
+      "emotion_tag_2": "용기",
+      "emotion_tag_3": "(없음)",
+      "image_url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Theo_van_Doesburg_-_Card_players_-_Google_Art_Project.jpg",
+      "index": "(기존 값 유지)",
+      "content_type": "(이번 작업에서 자동 지정하지 않음 — 별도 승인 필요)",
+      "source_excel_image_url_candidate": "https://en.wikipedia.org/wiki/Theo_van_Doesburg#/media/File:Theo_van_Doesburg_-_Card_players_-_Google_Art_Project.jpg"
+    },
+    "note": "실제 반영 아님 — dry-run 미리보기"
+  }
+]

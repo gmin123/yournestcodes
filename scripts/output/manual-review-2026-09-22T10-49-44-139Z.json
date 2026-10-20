@@ -1,0 +1,533 @@
+[
+  {
+    "row": 17,
+    "artist_name": "Felix Vallotton",
+    "artwork_title": "Still life in Chinese painting",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 2,
+    "title_matches_count": 2,
+    "reason": "image_url이 기존 문서 2개와 동시에 일치(이미지 재사용 의심) / 제목이 기존 문서 2개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 28,
+    "artist_name": "Felix Vallotton",
+    "artwork_title": "Still life in Chinese painting",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 2,
+    "title_matches_count": 2,
+    "reason": "image_url이 기존 문서 2개와 동시에 일치(이미지 재사용 의심) / 제목이 기존 문서 2개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 29,
+    "artist_name": "Felix Vallotton",
+    "artwork_title": "Rest",
+    "candidate_existing_doc_id": "JtdWPzcXLVH8NMEbvznA",
+    "image_matches_count": 1,
+    "title_matches_count": 5,
+    "reason": "제목이 기존 문서 5개와 일치(흔한 제목)"
+  },
+  {
+    "row": 30,
+    "artist_name": "Paul Delvaux",
+    "artwork_title": "Ecce Homo",
+    "candidate_existing_doc_id": "Aw9aslue5nioreTKCmRR",
+    "image_matches_count": 1,
+    "title_matches_count": 5,
+    "reason": "제목이 기존 문서 5개와 일치(흔한 제목)"
+  },
+  {
+    "row": 33,
+    "artist_name": "Paul Delvaux",
+    "artwork_title": "The Concert",
+    "candidate_existing_doc_id": "nSuHs6tuHFYNZnrhLIal",
+    "image_matches_count": 1,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목)"
+  },
+  {
+    "row": 43,
+    "artist_name": "Aleksei Jawlensky",
+    "artwork_title": "Self-Portrait",
+    "candidate_existing_doc_id": "6yRy8495wf7768FBIl7u",
+    "image_matches_count": 1,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목)"
+  },
+  {
+    "row": 47,
+    "artist_name": "Aleksei Jawlensky",
+    "artwork_title": "Seated Woman",
+    "candidate_existing_doc_id": "QVptZkodY9V8pVeemW0t",
+    "image_matches_count": 1,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목)"
+  },
+  {
+    "row": 77,
+    "artist_name": "George Grosz",
+    "artwork_title": "Metropolis",
+    "candidate_existing_doc_id": "jRtu7u2D1NA2O4iFdIYn",
+    "image_matches_count": 1,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목)"
+  },
+  {
+    "row": 92,
+    "artist_name": "Otto Dix",
+    "artwork_title": "Metropolis",
+    "candidate_existing_doc_id": "7uLzreUS8pFc38JgIEl5",
+    "image_matches_count": 1,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목)"
+  },
+  {
+    "row": 95,
+    "artist_name": "Otto Dix",
+    "artwork_title": "The Resurrection",
+    "candidate_existing_doc_id": "yBme53tPJi9IbjML4nEx",
+    "image_matches_count": 1,
+    "title_matches_count": 7,
+    "reason": "제목이 기존 문서 7개와 일치(흔한 제목)"
+  },
+  {
+    "row": 109,
+    "artist_name": "Ernst Ludwig Kirchner",
+    "artwork_title": "Lützowufer (Banks of the Canal) at the Mornig",
+    "candidate_existing_doc_id": "3ThdaJK7PgDOPRGLzcJN",
+    "image_matches_count": 0,
+    "title_matches_count": 1,
+    "reason": "제목은 일치하지만 image_url이 기존 DB와 다름(동일 작품의 다른 이미지이거나 동명이작 가능)"
+  },
+  {
+    "row": 110,
+    "artist_name": "Ernst Ludwig Kirchner",
+    "artwork_title": "Café Chantant II",
+    "candidate_existing_doc_id": "xD0bEWigHjPOcp3F0SRn",
+    "image_matches_count": 0,
+    "title_matches_count": 1,
+    "reason": "제목은 일치하지만 image_url이 기존 DB와 다름(동일 작품의 다른 이미지이거나 동명이작 가능)"
+  },
+  {
+    "row": 115,
+    "artist_name": "Emil Nolde",
+    "artwork_title": "Dancer",
+    "candidate_existing_doc_id": "fiCLe8KxI5bK3WJe2bLL",
+    "image_matches_count": 1,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목)"
+  },
+  {
+    "row": 118,
+    "artist_name": "Emil Nolde",
+    "artwork_title": "Crucifixion",
+    "candidate_existing_doc_id": "CiAOYKbrBFglKVlWkXsR",
+    "image_matches_count": 1,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목)"
+  },
+  {
+    "row": 128,
+    "artist_name": "Asger Jorn",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": "eGybCOTuizpJIoy2NPGk",
+    "image_matches_count": 1,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목)"
+  },
+  {
+    "row": 147,
+    "artist_name": "Antoni Tàpies",
+    "artwork_title": "Self-Portrait",
+    "candidate_existing_doc_id": "IBNkLdE2FzVEQtOKEVR4",
+    "image_matches_count": 1,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목)"
+  },
+  {
+    "row": 169,
+    "artist_name": "Alexander Calder",
+    "artwork_title": "Composition",
+    "candidate_existing_doc_id": "kOEjynzbl2iUCSgdqsOq",
+    "image_matches_count": 1,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목)"
+  },
+  {
+    "row": 175,
+    "artist_name": "Alexander Calder",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목)"
+  },
+  {
+    "row": 182,
+    "artist_name": "Robert Rauschenberg",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": "CREQCd0Zasna6Lxo2dO9",
+    "image_matches_count": 1,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목)"
+  },
+  {
+    "row": 200,
+    "artist_name": "Francis Bacon",
+    "artwork_title": "Crucifixion",
+    "candidate_existing_doc_id": "ieHudh6HNMidWoVQXGVp",
+    "image_matches_count": 1,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목)"
+  },
+  {
+    "row": 209,
+    "artist_name": "Francis Bacon",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": "tDW3ooWeKZ1UYCxp7EyE",
+    "image_matches_count": 1,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목)"
+  },
+  {
+    "row": 210,
+    "artist_name": "Alberto Giacometti",
+    "artwork_title": "Self-Portrait",
+    "candidate_existing_doc_id": "wInXAx4UxB5PbYI7SAzV",
+    "image_matches_count": 1,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목)"
+  },
+  {
+    "row": 220,
+    "artist_name": "Lucio Fontana",
+    "artwork_title": "Concetto spaziale",
+    "candidate_existing_doc_id": "XN7zXmFl996TC9AWHEsh",
+    "image_matches_count": 1,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 221,
+    "artist_name": "Lucio Fontana",
+    "artwork_title": "Concetto Spaziale",
+    "candidate_existing_doc_id": "UjVQBXiTXmj8mrvwhxcT",
+    "image_matches_count": 1,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 222,
+    "artist_name": "Lucio Fontana",
+    "artwork_title": "Concetto spaziale (Spatial Concept)",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 4,
+    "reason": "제목이 기존 문서 4개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 3개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 223,
+    "artist_name": "Lucio Fontana",
+    "artwork_title": "Concetto spaziale (Spatial Concept)",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 4,
+    "reason": "제목이 기존 문서 4개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 3개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 224,
+    "artist_name": "Lucio Fontana",
+    "artwork_title": "Concetto spaziale (Spatial Concept)",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 4,
+    "reason": "제목이 기존 문서 4개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 3개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 234,
+    "artist_name": "Arshile Gorky",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": "7Y6wpl9Z49MXhYHOFv2w",
+    "image_matches_count": 1,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목)"
+  },
+  {
+    "row": 238,
+    "artist_name": "Barnett Newman",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": "fT5YhSelOYYA44p1wEUJ",
+    "image_matches_count": 1,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 239,
+    "artist_name": "Barnett Newman",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": "pa3TXCFWtvmpbApLtj6o",
+    "image_matches_count": 1,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 248,
+    "artist_name": "Jackson Pollock",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": "mRw3u8mFfuoMYdflmGp1",
+    "image_matches_count": 1,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 252,
+    "artist_name": "Jackson Pollock",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": "eg5gBu7bVawcIagmGfUM",
+    "image_matches_count": 1,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 257,
+    "artist_name": "Max Ernst",
+    "artwork_title": "Composition",
+    "candidate_existing_doc_id": "vJJWmoLhzh5brNirQuJe",
+    "image_matches_count": 1,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목)"
+  },
+  {
+    "row": 259,
+    "artist_name": "Max Ernst",
+    "artwork_title": "Immortality",
+    "candidate_existing_doc_id": "tuEEOlXxX9b2paNqWeNp",
+    "image_matches_count": 1,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목)"
+  },
+  {
+    "row": 268,
+    "artist_name": "Fernand Léger",
+    "artwork_title": "Portrait of Andre Mare",
+    "candidate_existing_doc_id": "DYbD6eSU8UaXVIeVPl52",
+    "image_matches_count": 0,
+    "title_matches_count": 1,
+    "reason": "제목은 일치하지만 image_url이 기존 DB와 다름(동일 작품의 다른 이미지이거나 동명이작 가능)"
+  },
+  {
+    "row": 269,
+    "artist_name": "Fernand Léger",
+    "artwork_title": "Contraste de Formes",
+    "candidate_existing_doc_id": "A9vgFRgRqj4nZuy0qFLy",
+    "image_matches_count": 0,
+    "title_matches_count": 1,
+    "reason": "제목은 일치하지만 image_url이 기존 DB와 다름(동일 작품의 다른 이미지이거나 동명이작 가능)"
+  },
+  {
+    "row": 272,
+    "artist_name": "Fernand Léger",
+    "artwork_title": "Composition",
+    "candidate_existing_doc_id": "75jyS15gvCJZKimg3KK4",
+    "image_matches_count": 1,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목)"
+  },
+  {
+    "row": 282,
+    "artist_name": "Joan Miró",
+    "artwork_title": "Dancer",
+    "candidate_existing_doc_id": "h6wSFaz2FzVvfuQpfNPL",
+    "image_matches_count": 1,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목)"
+  },
+  {
+    "row": 306,
+    "artist_name": "Egon Schiele",
+    "artwork_title": "The Blind",
+    "candidate_existing_doc_id": "YWKYl0VkjO1JYGx50HkQ",
+    "image_matches_count": 1,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목)"
+  },
+  {
+    "row": 316,
+    "artist_name": "Gustav Klimt",
+    "artwork_title": "Portrait of Emilie Flöge",
+    "candidate_existing_doc_id": "Yw2gtHgmCujrGEXgU5mN",
+    "image_matches_count": 0,
+    "title_matches_count": 1,
+    "reason": "제목은 일치하지만 image_url이 기존 DB와 다름(동일 작품의 다른 이미지이거나 동명이작 가능)"
+  },
+  {
+    "row": 319,
+    "artist_name": "Gustav Klimt",
+    "artwork_title": "Litzlberg am Attersee",
+    "candidate_existing_doc_id": "7wMHTBAhTYdaekOnAE57",
+    "image_matches_count": 1,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 320,
+    "artist_name": "Gustav Klimt",
+    "artwork_title": "Litzlberg am Attersee",
+    "candidate_existing_doc_id": "yPhmIOrhbzMPoFjFh5MW",
+    "image_matches_count": 1,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 353,
+    "artist_name": "Paul Klee",
+    "artwork_title": "Sunset",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 4,
+    "reason": "제목이 기존 문서 4개와 일치(흔한 제목)"
+  },
+  {
+    "row": 356,
+    "artist_name": "Mark Rothko",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 4개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 357,
+    "artist_name": "Mark Rothko",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 4개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 359,
+    "artist_name": "Mark Rothko",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 4개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 362,
+    "artist_name": "Mark Rothko",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 4개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 426,
+    "artist_name": "Henri Matisse",
+    "artwork_title": "The Dream",
+    "candidate_existing_doc_id": "5Wzyas68ptvC4g1C97Ll",
+    "image_matches_count": 0,
+    "title_matches_count": 1,
+    "reason": "제목은 일치하지만 image_url이 기존 DB와 다름(동일 작품의 다른 이미지이거나 동명이작 가능)"
+  },
+  {
+    "row": 430,
+    "artist_name": "Henri Matisse",
+    "artwork_title": "Goldfish",
+    "candidate_existing_doc_id": "NfDWiG9LkHwcUzh9Lujy",
+    "image_matches_count": 0,
+    "title_matches_count": 1,
+    "reason": "제목은 일치하지만 image_url이 기존 DB와 다름(동일 작품의 다른 이미지이거나 동명이작 가능)"
+  },
+  {
+    "row": 450,
+    "artist_name": "Salvador Dalí",
+    "artwork_title": "Self-Portrait",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 451,
+    "artist_name": "Salvador Dalí",
+    "artwork_title": "Self-Portrait",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 480,
+    "artist_name": "Edvard Munch",
+    "artwork_title": "Landscape",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 22,
+    "reason": "제목이 기존 문서 22개와 일치(흔한 제목)"
+  },
+  {
+    "row": 500,
+    "artist_name": "Hilma af Klint",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목)"
+  },
+  {
+    "row": 518,
+    "artist_name": "Alphonse Mucha",
+    "artwork_title": "Portrait of a Girl",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 6,
+    "reason": "제목이 기존 문서 6개와 일치(흔한 제목)"
+  },
+  {
+    "row": 523,
+    "artist_name": "Alphonse Mucha",
+    "artwork_title": "Spring",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목)"
+  },
+  {
+    "row": 540,
+    "artist_name": "Louise Bourgeois",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 541,
+    "artist_name": "Louise Bourgeois",
+    "artwork_title": "Portrait",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목)"
+  },
+  {
+    "row": 543,
+    "artist_name": "Louise Bourgeois",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 553,
+    "artist_name": "Henry Moore",
+    "artwork_title": "Seated Woman",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목)"
+  }
+]

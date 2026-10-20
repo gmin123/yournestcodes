@@ -1,0 +1,27 @@
+{
+  "name": "emotion-art-recommendation",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "AI 기반 감정 분석으로 예술 작품을 추천하는 인터랙티브 웹 애플리케이션",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "framer-motion": "^11.11.17",
+    "lucide-react": "^0.454.0",
+    "firebase": "^10.13.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "typescript": "^5.2.2",
+    "vite": "^5.3.1"
+  }
+}

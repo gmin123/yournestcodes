@@ -1,0 +1,2999 @@
+[
+  {
+    "row": 17,
+    "artist_name": "Felix Vallotton",
+    "artwork_title": "Still life in Chinese painting",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 2,
+    "title_matches_count": 2,
+    "reason": "image_url이 기존 문서 2개와 동시에 일치(이미지 재사용 의심) / 제목이 기존 문서 2개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 28,
+    "artist_name": "Felix Vallotton",
+    "artwork_title": "Still life in Chinese painting",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 2,
+    "title_matches_count": 2,
+    "reason": "image_url이 기존 문서 2개와 동시에 일치(이미지 재사용 의심) / 제목이 기존 문서 2개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 29,
+    "artist_name": "Felix Vallotton",
+    "artwork_title": "Rest",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 5,
+    "reason": "제목이 기존 문서 5개와 일치(흔한 제목)"
+  },
+  {
+    "row": 30,
+    "artist_name": "Paul Delvaux",
+    "artwork_title": "Ecce Homo",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 5,
+    "reason": "제목이 기존 문서 5개와 일치(흔한 제목)"
+  },
+  {
+    "row": 33,
+    "artist_name": "Paul Delvaux",
+    "artwork_title": "The Concert",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목)"
+  },
+  {
+    "row": 43,
+    "artist_name": "Aleksei Jawlensky",
+    "artwork_title": "Self-Portrait",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목)"
+  },
+  {
+    "row": 47,
+    "artist_name": "Aleksei Jawlensky",
+    "artwork_title": "Seated Woman",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목)"
+  },
+  {
+    "row": 77,
+    "artist_name": "George Grosz",
+    "artwork_title": "Metropolis",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목)"
+  },
+  {
+    "row": 92,
+    "artist_name": "Otto Dix",
+    "artwork_title": "Metropolis",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목)"
+  },
+  {
+    "row": 95,
+    "artist_name": "Otto Dix",
+    "artwork_title": "The Resurrection",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 7,
+    "reason": "제목이 기존 문서 7개와 일치(흔한 제목)"
+  },
+  {
+    "row": 109,
+    "artist_name": "Ernst Ludwig Kirchner",
+    "artwork_title": "Lützowufer (Banks of the Canal) at the Mornig",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 0,
+    "title_matches_count": 1,
+    "reason": "제목은 일치하지만 image_url이 기존 DB와 다름(동일 작품의 다른 이미지이거나 동명이작 가능)"
+  },
+  {
+    "row": 110,
+    "artist_name": "Ernst Ludwig Kirchner",
+    "artwork_title": "Café Chantant II",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 0,
+    "title_matches_count": 1,
+    "reason": "제목은 일치하지만 image_url이 기존 DB와 다름(동일 작품의 다른 이미지이거나 동명이작 가능)"
+  },
+  {
+    "row": 115,
+    "artist_name": "Emil Nolde",
+    "artwork_title": "Dancer",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목)"
+  },
+  {
+    "row": 118,
+    "artist_name": "Emil Nolde",
+    "artwork_title": "Crucifixion",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목)"
+  },
+  {
+    "row": 128,
+    "artist_name": "Asger Jorn",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목)"
+  },
+  {
+    "row": 147,
+    "artist_name": "Antoni Tàpies",
+    "artwork_title": "Self-Portrait",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목)"
+  },
+  {
+    "row": 169,
+    "artist_name": "Alexander Calder",
+    "artwork_title": "Composition",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목)"
+  },
+  {
+    "row": 175,
+    "artist_name": "Alexander Calder",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목)"
+  },
+  {
+    "row": 182,
+    "artist_name": "Robert Rauschenberg",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목)"
+  },
+  {
+    "row": 200,
+    "artist_name": "Francis Bacon",
+    "artwork_title": "Crucifixion",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목)"
+  },
+  {
+    "row": 209,
+    "artist_name": "Francis Bacon",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목)"
+  },
+  {
+    "row": 210,
+    "artist_name": "Alberto Giacometti",
+    "artwork_title": "Self-Portrait",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목)"
+  },
+  {
+    "row": 220,
+    "artist_name": "Lucio Fontana",
+    "artwork_title": "Concetto spaziale",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 221,
+    "artist_name": "Lucio Fontana",
+    "artwork_title": "Concetto Spaziale",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 222,
+    "artist_name": "Lucio Fontana",
+    "artwork_title": "Concetto spaziale (Spatial Concept)",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 4,
+    "reason": "제목이 기존 문서 4개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 3개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 223,
+    "artist_name": "Lucio Fontana",
+    "artwork_title": "Concetto spaziale (Spatial Concept)",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 4,
+    "reason": "제목이 기존 문서 4개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 3개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 224,
+    "artist_name": "Lucio Fontana",
+    "artwork_title": "Concetto spaziale (Spatial Concept)",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 4,
+    "reason": "제목이 기존 문서 4개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 3개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 234,
+    "artist_name": "Arshile Gorky",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목)"
+  },
+  {
+    "row": 238,
+    "artist_name": "Barnett Newman",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 239,
+    "artist_name": "Barnett Newman",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 248,
+    "artist_name": "Jackson Pollock",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 252,
+    "artist_name": "Jackson Pollock",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 257,
+    "artist_name": "Max Ernst",
+    "artwork_title": "Composition",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목)"
+  },
+  {
+    "row": 259,
+    "artist_name": "Max Ernst",
+    "artwork_title": "Immortality",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목)"
+  },
+  {
+    "row": 268,
+    "artist_name": "Fernand Léger",
+    "artwork_title": "Portrait of Andre Mare",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 0,
+    "title_matches_count": 1,
+    "reason": "제목은 일치하지만 image_url이 기존 DB와 다름(동일 작품의 다른 이미지이거나 동명이작 가능)"
+  },
+  {
+    "row": 269,
+    "artist_name": "Fernand Léger",
+    "artwork_title": "Contraste de Formes",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 0,
+    "title_matches_count": 1,
+    "reason": "제목은 일치하지만 image_url이 기존 DB와 다름(동일 작품의 다른 이미지이거나 동명이작 가능)"
+  },
+  {
+    "row": 272,
+    "artist_name": "Fernand Léger",
+    "artwork_title": "Composition",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목)"
+  },
+  {
+    "row": 282,
+    "artist_name": "Joan Miró",
+    "artwork_title": "Dancer",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목)"
+  },
+  {
+    "row": 306,
+    "artist_name": "Egon Schiele",
+    "artwork_title": "The Blind",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목)"
+  },
+  {
+    "row": 316,
+    "artist_name": "Gustav Klimt",
+    "artwork_title": "Portrait of Emilie Flöge",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 0,
+    "title_matches_count": 1,
+    "reason": "제목은 일치하지만 image_url이 기존 DB와 다름(동일 작품의 다른 이미지이거나 동명이작 가능)"
+  },
+  {
+    "row": 319,
+    "artist_name": "Gustav Klimt",
+    "artwork_title": "Litzlberg am Attersee",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 320,
+    "artist_name": "Gustav Klimt",
+    "artwork_title": "Litzlberg am Attersee",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 353,
+    "artist_name": "Paul Klee",
+    "artwork_title": "Sunset",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 4,
+    "reason": "제목이 기존 문서 4개와 일치(흔한 제목)"
+  },
+  {
+    "row": 356,
+    "artist_name": "Mark Rothko",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 4개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 357,
+    "artist_name": "Mark Rothko",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 4개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 359,
+    "artist_name": "Mark Rothko",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 4개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 362,
+    "artist_name": "Mark Rothko",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 4개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 426,
+    "artist_name": "Henri Matisse",
+    "artwork_title": "The Dream",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 0,
+    "title_matches_count": 1,
+    "reason": "제목은 일치하지만 image_url이 기존 DB와 다름(동일 작품의 다른 이미지이거나 동명이작 가능)"
+  },
+  {
+    "row": 430,
+    "artist_name": "Henri Matisse",
+    "artwork_title": "Goldfish",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 0,
+    "title_matches_count": 1,
+    "reason": "제목은 일치하지만 image_url이 기존 DB와 다름(동일 작품의 다른 이미지이거나 동명이작 가능)"
+  },
+  {
+    "row": 450,
+    "artist_name": "Salvador Dalí",
+    "artwork_title": "Self-Portrait",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 451,
+    "artist_name": "Salvador Dalí",
+    "artwork_title": "Self-Portrait",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 480,
+    "artist_name": "Edvard Munch",
+    "artwork_title": "Landscape",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 22,
+    "reason": "제목이 기존 문서 22개와 일치(흔한 제목)"
+  },
+  {
+    "row": 500,
+    "artist_name": "Hilma af Klint",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목)"
+  },
+  {
+    "row": 518,
+    "artist_name": "Alphonse Mucha",
+    "artwork_title": "Portrait of a Girl",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 6,
+    "reason": "제목이 기존 문서 6개와 일치(흔한 제목)"
+  },
+  {
+    "row": 523,
+    "artist_name": "Alphonse Mucha",
+    "artwork_title": "Spring",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목)"
+  },
+  {
+    "row": 540,
+    "artist_name": "Louise Bourgeois",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 541,
+    "artist_name": "Louise Bourgeois",
+    "artwork_title": "Portrait",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 2,
+    "reason": "제목이 기존 문서 2개와 일치(흔한 제목)"
+  },
+  {
+    "row": 543,
+    "artist_name": "Louise Bourgeois",
+    "artwork_title": "Untitled",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 10,
+    "reason": "제목이 기존 문서 10개와 일치(흔한 제목) / 엑셀 내 동일 작가+제목 행 2개 존재(중복 입력 가능성)"
+  },
+  {
+    "row": 553,
+    "artist_name": "Henry Moore",
+    "artwork_title": "Seated Woman",
+    "candidate_existing_doc_id": null,
+    "image_matches_count": 0,
+    "title_matches_count": 3,
+    "reason": "제목이 기존 문서 3개와 일치(흔한 제목)"
+  },
+  {
+    "row": 2,
+    "artist_name": "Theo van Doesburg",
+    "artwork_title": "Woman in Landscape",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 3,
+    "artist_name": "Theo van Doesburg",
+    "artwork_title": "Self-protrait with hat, 1906",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 4,
+    "artist_name": "Theo van Doesburg",
+    "artwork_title": "Self-protrait, 1915",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 5,
+    "artist_name": "Theo van Doesburg",
+    "artwork_title": "Composition, 1915",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 6,
+    "artist_name": "Theo van Doesburg",
+    "artwork_title": "Composition l",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 7,
+    "artist_name": "Theo van Doesburg",
+    "artwork_title": "Composition VII (the three graces), 1917",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 8,
+    "artist_name": "Theo van Doesburg",
+    "artwork_title": "Counter composition XIII, 1929",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 9,
+    "artist_name": "Theo van Doesburg",
+    "artwork_title": "Card players, 1916–1917",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 10,
+    "artist_name": "Theo van Doesburg",
+    "artwork_title": "Composition with window with coloured glass III",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 11,
+    "artist_name": "Theo van Doesburg",
+    "artwork_title": "Tree",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 12,
+    "artist_name": "Theo van Doesburg",
+    "artwork_title": "Abstract portrait",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 13,
+    "artist_name": "Theo van Doesburg",
+    "artwork_title": "Mouvement héroïque",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 14,
+    "artist_name": "Theo van Doesburg",
+    "artwork_title": "Composition IX",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 15,
+    "artist_name": "Theo van Doesburg",
+    "artwork_title": "ceiling design for the Ciné-Dancing of the Aubette",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 16,
+    "artist_name": "Felix Vallotton",
+    "artwork_title": "Lost in Thoughts",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 18,
+    "artist_name": "Felix Vallotton",
+    "artwork_title": "Perseus Slaying the Dragon",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 19,
+    "artist_name": "Felix Vallotton",
+    "artwork_title": "Autumn Crocuses",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 20,
+    "artist_name": "Felix Vallotton",
+    "artwork_title": "The Waltz",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 21,
+    "artist_name": "Felix Vallotton",
+    "artwork_title": "My portrait",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 22,
+    "artist_name": "Felix Vallotton",
+    "artwork_title": "The Bistro",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 23,
+    "artist_name": "Felix Vallotton",
+    "artwork_title": "Passerby (also known as Street Scene)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 24,
+    "artist_name": "Felix Vallotton",
+    "artwork_title": "Le Bois de la Gruerie et le ravin des Meurissons (1917)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 25,
+    "artist_name": "Felix Vallotton",
+    "artwork_title": "Houses and reeds",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 26,
+    "artist_name": "Felix Vallotton",
+    "artwork_title": "Laid down woman, sleeping",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 27,
+    "artist_name": "Felix Vallotton",
+    "artwork_title": "The Entrance to the Villa Beaulieu in Honfleur (also known as Before the Storm)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 31,
+    "artist_name": "Paul Delvaux",
+    "artwork_title": "The Sleeping Venus",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 32,
+    "artist_name": "Paul Delvaux",
+    "artwork_title": "Pygmallion",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 34,
+    "artist_name": "Paul Delvaux",
+    "artwork_title": "Night Visit",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 35,
+    "artist_name": "Paul Delvaux",
+    "artwork_title": "The Sleeping Town",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 36,
+    "artist_name": "Paul Delvaux",
+    "artwork_title": "Salut",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 37,
+    "artist_name": "Paul Delvaux",
+    "artwork_title": "The Man in the Street",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 38,
+    "artist_name": "Paul Delvaux",
+    "artwork_title": "Phases of the Moon",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 39,
+    "artist_name": "Paul Delvaux",
+    "artwork_title": "The Musee Spitzner",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 40,
+    "artist_name": "Paul Delvaux",
+    "artwork_title": "A Visit",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 41,
+    "artist_name": "Aleksei Jawlensky",
+    "artwork_title": "Japanese Flower",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 42,
+    "artist_name": "Aleksei Jawlensky",
+    "artwork_title": "Still Life with Bottle, Bread and red Wallpaper with Swallows",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 44,
+    "artist_name": "Aleksei Jawlensky",
+    "artwork_title": "Young Girl with Peonies",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 45,
+    "artist_name": "Aleksei Jawlensky",
+    "artwork_title": "Sitzende Frau",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 46,
+    "artist_name": "Aleksei Jawlensky",
+    "artwork_title": "Still-life with flowers and oranges",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 48,
+    "artist_name": "Aleksei Jawlensky",
+    "artwork_title": "Blumen in einer Vase",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 49,
+    "artist_name": "Aleksei Jawlensky",
+    "artwork_title": "Saviour's Face: Distant King - Buddha II",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 50,
+    "artist_name": "Aleksei Jawlensky",
+    "artwork_title": "Schokko with Red Hat",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 51,
+    "artist_name": "Oskar Kokoschka",
+    "artwork_title": "The Awakenings",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 52,
+    "artist_name": "Oskar Kokoschka",
+    "artwork_title": "The Distant Island",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 53,
+    "artist_name": "Oskar Kokoschka",
+    "artwork_title": "The Sleepers",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 54,
+    "artist_name": "Oskar Kokoschka",
+    "artwork_title": "The Power of Music",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 55,
+    "artist_name": "Oskar Kokoschka",
+    "artwork_title": "Albert Ehrenstein",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 56,
+    "artist_name": "Oskar Kokoschka",
+    "artwork_title": "Bodegón with Affair and Rabbit",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 57,
+    "artist_name": "Oskar Kokoschka",
+    "artwork_title": "Bride of the Wind",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 58,
+    "artist_name": "Oskar Kokoschka",
+    "artwork_title": "Dents du Midi",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 59,
+    "artist_name": "Oskar Kokoschka",
+    "artwork_title": "Poster Design for the Jubilee Procession of the Kaiser",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 60,
+    "artist_name": "Oskar Kokoschka",
+    "artwork_title": "Flight into Egypt",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 61,
+    "artist_name": "Oskar Kokoschka",
+    "artwork_title": "Veronica's Veil",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 62,
+    "artist_name": "Oskar Kokoschka",
+    "artwork_title": "Double Nude: Two Women",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 63,
+    "artist_name": "Oskar Kokoschka",
+    "artwork_title": "Dolomite Landscape: Tre Croci",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 64,
+    "artist_name": "Max Beckmann",
+    "artwork_title": "The Dream",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 65,
+    "artist_name": "Max Beckmann",
+    "artwork_title": "The Descent from the Cross",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 66,
+    "artist_name": "Max Beckmann",
+    "artwork_title": "Night",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 67,
+    "artist_name": "Max Beckmann",
+    "artwork_title": "Self-Portrait with Red Scarf",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 68,
+    "artist_name": "Max Beckmann",
+    "artwork_title": "Motherhood",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 69,
+    "artist_name": "Max Beckmann",
+    "artwork_title": "Dancing Bar in Baden-Baden",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 70,
+    "artist_name": "Max Beckmann",
+    "artwork_title": "Quappi in Pink",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 71,
+    "artist_name": "Max Beckmann",
+    "artwork_title": "Blindman's Buff",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 72,
+    "artist_name": "Max Beckmann",
+    "artwork_title": "Portrait of Zeretelli",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 73,
+    "artist_name": "Max Beckmann",
+    "artwork_title": "Self-portrait with champagne glass",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 74,
+    "artist_name": "George Grosz",
+    "artwork_title": "Café",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 75,
+    "artist_name": "George Grosz",
+    "artwork_title": "Republican Automatons",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 76,
+    "artist_name": "George Grosz",
+    "artwork_title": "Eclipse of the Sun",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 78,
+    "artist_name": "George Grosz",
+    "artwork_title": "Peace, II",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 79,
+    "artist_name": "George Grosz",
+    "artwork_title": "The Love Sick",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 80,
+    "artist_name": "George Grosz",
+    "artwork_title": "Couple",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 81,
+    "artist_name": "George Grosz",
+    "artwork_title": "The Painter of the Hole",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 82,
+    "artist_name": "George Grosz",
+    "artwork_title": "Waving the Flag",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 83,
+    "artist_name": "George Grosz",
+    "artwork_title": "Made in Germany",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 84,
+    "artist_name": "Otto Dix",
+    "artwork_title": "Stormtroopers Advancing Under Gas",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 85,
+    "artist_name": "Otto Dix",
+    "artwork_title": "The Match Seller",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 86,
+    "artist_name": "Otto Dix",
+    "artwork_title": "Portrait de la journaliste Sylvia von Harden",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 87,
+    "artist_name": "Otto Dix",
+    "artwork_title": "The Skat Players",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 88,
+    "artist_name": "Otto Dix",
+    "artwork_title": "Dr. Mayer-Hermann",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 89,
+    "artist_name": "Otto Dix",
+    "artwork_title": "Portrait of the Dancer Anita Berber",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 90,
+    "artist_name": "Otto Dix",
+    "artwork_title": "The Art Dealer Alfred Flechtheim",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 91,
+    "artist_name": "Otto Dix",
+    "artwork_title": "Hugo Erfurth with Dog",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 93,
+    "artist_name": "Otto Dix",
+    "artwork_title": "The Businessman Max Roesberg",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 94,
+    "artist_name": "Otto Dix",
+    "artwork_title": "The Artist’s Family",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 96,
+    "artist_name": "Otto Dix",
+    "artwork_title": "Prager Street",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 97,
+    "artist_name": "Ernst Ludwig Kirchner",
+    "artwork_title": "Women on the Street",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 98,
+    "artist_name": "Ernst Ludwig Kirchner",
+    "artwork_title": "Mountains in Winter",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 99,
+    "artist_name": "Ernst Ludwig Kirchner",
+    "artwork_title": "Three Bathers",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 100,
+    "artist_name": "Ernst Ludwig Kirchner",
+    "artwork_title": "White horse performance act",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 101,
+    "artist_name": "Ernst Ludwig Kirchner",
+    "artwork_title": "Female Artist",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 102,
+    "artist_name": "Ernst Ludwig Kirchner",
+    "artwork_title": "Nudes in a Meadow",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 103,
+    "artist_name": "Ernst Ludwig Kirchner",
+    "artwork_title": "Bridge in Wiesen",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 104,
+    "artist_name": "Ernst Ludwig Kirchner",
+    "artwork_title": "Mask Dance",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 105,
+    "artist_name": "Ernst Ludwig Kirchner",
+    "artwork_title": "Woman is Walking over a Nighty Street",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 106,
+    "artist_name": "Ernst Ludwig Kirchner",
+    "artwork_title": "Lovers (The kiss)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 107,
+    "artist_name": "Ernst Ludwig Kirchner",
+    "artwork_title": "Women Playing with a Ball",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 108,
+    "artist_name": "Ernst Ludwig Kirchner",
+    "artwork_title": "Cattle in the Spring",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 111,
+    "artist_name": "Ernst Ludwig Kirchner",
+    "artwork_title": "Wildboden Mountains Forest",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 113,
+    "artist_name": "Emil Nolde",
+    "artwork_title": "Flower Garden\" (without figure) (Blumengarten, ohne Figur)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 114,
+    "artist_name": "Emil Nolde",
+    "artwork_title": "Young couple(Junges Paar)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 116,
+    "artist_name": "Emil Nolde",
+    "artwork_title": "Red Clouds",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 117,
+    "artist_name": "Emil Nolde",
+    "artwork_title": "Forest Path",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 119,
+    "artist_name": "Emil Nolde",
+    "artwork_title": "The missionary",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 120,
+    "artist_name": "Emil Nolde",
+    "artwork_title": "Dance Around the Golden Calf",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 121,
+    "artist_name": "Emil Nolde",
+    "artwork_title": "Mask Still Life III",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 122,
+    "artist_name": "Emil Nolde",
+    "artwork_title": "Burial",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 123,
+    "artist_name": "Emil Nolde",
+    "artwork_title": "Child and Large Bird",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 124,
+    "artist_name": "Asger Jorn",
+    "artwork_title": "Småting",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 125,
+    "artist_name": "Asger Jorn",
+    "artwork_title": "Tu etais tel",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 126,
+    "artist_name": "Asger Jorn",
+    "artwork_title": "La Fleur du mal",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 127,
+    "artist_name": "Asger Jorn",
+    "artwork_title": "The Moon and the Animals",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 129,
+    "artist_name": "Asger Jorn",
+    "artwork_title": "Skildpadden I",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 130,
+    "artist_name": "Asger Jorn",
+    "artwork_title": "Nattefesten",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 131,
+    "artist_name": "Asger Jorn",
+    "artwork_title": "Les animaux domestiques",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 132,
+    "artist_name": "Asger Jorn",
+    "artwork_title": "Those Left Behind",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 133,
+    "artist_name": "Asger Jorn",
+    "artwork_title": "Red Visions",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 134,
+    "artist_name": "Asger Jorn",
+    "artwork_title": "Aarstiderne",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 135,
+    "artist_name": "Asger Jorn",
+    "artwork_title": "Le droit d’aigle",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 136,
+    "artist_name": "Karel Appel",
+    "artwork_title": "Hip, Hip, Hoorah!",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 137,
+    "artist_name": "Karel Appel",
+    "artwork_title": "Questioning Children",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 138,
+    "artist_name": "Karel Appel",
+    "artwork_title": "People, Birds and Sun",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 139,
+    "artist_name": "Karel Appel",
+    "artwork_title": "Amorous Dance",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 140,
+    "artist_name": "Karel Appel",
+    "artwork_title": "Women, Children, Animals",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 141,
+    "artist_name": "Karel Appel",
+    "artwork_title": "Untitled(1954)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 142,
+    "artist_name": "Karel Appel",
+    "artwork_title": "Horse and Flute Player",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 143,
+    "artist_name": "Karel Appel",
+    "artwork_title": "The Crying Crocodile Tries to Catch the Sun",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 144,
+    "artist_name": "Karel Appel",
+    "artwork_title": "The Encounter(1951)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 145,
+    "artist_name": "Karel Appel",
+    "artwork_title": "Two Heads",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 146,
+    "artist_name": "Karel Appel",
+    "artwork_title": "Wild Horses",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 148,
+    "artist_name": "Antoni Tàpies",
+    "artwork_title": "Personage",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 149,
+    "artist_name": "Antoni Tàpies",
+    "artwork_title": "Asia",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 150,
+    "artist_name": "Antoni Tàpies",
+    "artwork_title": "Formes blaves sobre rogenc (Blue Forms on a Reddish Background)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 151,
+    "artist_name": "Antoni Tàpies",
+    "artwork_title": "Zoom",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 152,
+    "artist_name": "Antoni Tàpies",
+    "artwork_title": "Dues figures (Two Figures)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 153,
+    "artist_name": "Antoni Tàpies",
+    "artwork_title": "Figura sobre fusta cremada (Figure on Burnt Wood)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 154,
+    "artist_name": "Antoni Tàpies",
+    "artwork_title": "Tríptic (Triptych)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 155,
+    "artist_name": "Antoni Tàpies",
+    "artwork_title": "Paratge de Muss (Paratge de Mus)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 156,
+    "artist_name": "Antoni Tàpies",
+    "artwork_title": "Nocturn (Nocturne)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 157,
+    "artist_name": "Jean Dubuffet",
+    "artwork_title": "The Cow With The Subtle Nose",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 158,
+    "artist_name": "Jean Dubuffet",
+    "artwork_title": "Apartment Houses, Paris",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 159,
+    "artist_name": "Jean Dubuffet",
+    "artwork_title": "Lecciones Botanica",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 160,
+    "artist_name": "Jean Dubuffet",
+    "artwork_title": "Fear",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 161,
+    "artist_name": "Jean Dubuffet",
+    "artwork_title": "Subway",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 162,
+    "artist_name": "Jean Dubuffet",
+    "artwork_title": "Bedouin on a donkey",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 163,
+    "artist_name": "Jean Dubuffet",
+    "artwork_title": "The teddy bear",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 164,
+    "artist_name": "Jean Dubuffet",
+    "artwork_title": "Bright meteor",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 165,
+    "artist_name": "Jean Dubuffet",
+    "artwork_title": "It flute on the bump",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 166,
+    "artist_name": "Jean Dubuffet",
+    "artwork_title": "Arab palm trees",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 167,
+    "artist_name": "Jean Dubuffet",
+    "artwork_title": "Black Earth",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 168,
+    "artist_name": "Alexander Calder",
+    "artwork_title": "《Painting》 (Front / Recto) ｜ 《(Diagram)》 (Back / Verso)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 170,
+    "artist_name": "Alexander Calder",
+    "artwork_title": "Firemen's Dinner for Brancusi",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 171,
+    "artist_name": "Alexander Calder",
+    "artwork_title": "City Park",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 178,
+    "artist_name": "Robert Rauschenberg",
+    "artwork_title": "Sue",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 179,
+    "artist_name": "Robert Rauschenberg",
+    "artwork_title": "Satellite",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 180,
+    "artist_name": "Robert Rauschenberg",
+    "artwork_title": "Interview",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 181,
+    "artist_name": "Robert Rauschenberg",
+    "artwork_title": "Monogram",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 183,
+    "artist_name": "Robert Rauschenberg",
+    "artwork_title": "Bed",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 184,
+    "artist_name": "Robert Rauschenberg",
+    "artwork_title": "K 24976 S",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 185,
+    "artist_name": "Robert Rauschenberg",
+    "artwork_title": "Untitled [double Rauschenberg]",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 186,
+    "artist_name": "Robert Rauschenberg",
+    "artwork_title": "Rhyme",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 187,
+    "artist_name": "Robert Rauschenberg",
+    "artwork_title": "Untitled (Mirror)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 188,
+    "artist_name": "Lucian Freud",
+    "artwork_title": "Evacuee Boy",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 189,
+    "artist_name": "Lucian Freud",
+    "artwork_title": "Landscape with Birds",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 190,
+    "artist_name": "Lucian Freud",
+    "artwork_title": "Man with a Feather",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 191,
+    "artist_name": "Lucian Freud",
+    "artwork_title": "Box of Apples in Wales",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 192,
+    "artist_name": "Lucian Freud",
+    "artwork_title": "Horse Smiling",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 193,
+    "artist_name": "Lucian Freud",
+    "artwork_title": "Francis Bacon",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 194,
+    "artist_name": "Lucian Freud",
+    "artwork_title": "The Painter's Room",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 195,
+    "artist_name": "Lucian Freud",
+    "artwork_title": "Girl with Leaves",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 196,
+    "artist_name": "Lucian Freud",
+    "artwork_title": "Memory of London",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 197,
+    "artist_name": "Lucian Freud",
+    "artwork_title": "Girl in a Dark Jacket",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 198,
+    "artist_name": "Lucian Freud",
+    "artwork_title": "Girl with a Kitten",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 199,
+    "artist_name": "Lucian Freud",
+    "artwork_title": "Fragment Head of Gerald Wilde",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 201,
+    "artist_name": "Francis Bacon",
+    "artwork_title": "Three Studies for Figures at the Base of a Crucifixion",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 202,
+    "artist_name": "Francis Bacon",
+    "artwork_title": "Study Figure I",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 203,
+    "artist_name": "Francis Bacon",
+    "artwork_title": "Fury",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 204,
+    "artist_name": "Francis Bacon",
+    "artwork_title": "Figure Study II",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 205,
+    "artist_name": "Francis Bacon",
+    "artwork_title": "Painting",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 206,
+    "artist_name": "Francis Bacon",
+    "artwork_title": "Study after Velazquez",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 207,
+    "artist_name": "Francis Bacon",
+    "artwork_title": "Man Carrying a Child",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 208,
+    "artist_name": "Francis Bacon",
+    "artwork_title": "Study for Figure II",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 211,
+    "artist_name": "Alberto Giacometti",
+    "artwork_title": "Hands Holding a Void",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 212,
+    "artist_name": "Alberto Giacometti",
+    "artwork_title": "Diego Seated",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 213,
+    "artist_name": "Alberto Giacometti",
+    "artwork_title": "Diego",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 214,
+    "artist_name": "Alberto Giacometti",
+    "artwork_title": "Diego in a Plaid Shirt",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 215,
+    "artist_name": "Alberto Giacometti",
+    "artwork_title": "Isaku Yanaihara",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 216,
+    "artist_name": "Alberto Giacometti",
+    "artwork_title": "The City Square",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 217,
+    "artist_name": "Alberto Giacometti",
+    "artwork_title": "Portrait of Annette",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 218,
+    "artist_name": "Alberto Giacometti",
+    "artwork_title": "The Artist's Mother",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 219,
+    "artist_name": "Alberto Giacometti",
+    "artwork_title": "Apple on the Sideboard",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 225,
+    "artist_name": "Arshile Gorky",
+    "artwork_title": "The Artist and His Mother",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 226,
+    "artist_name": "Arshile Gorky",
+    "artwork_title": "One Year the Milkweed",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 227,
+    "artist_name": "Arshile Gorky",
+    "artwork_title": "Park Street Church",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 228,
+    "artist_name": "Arshile Gorky",
+    "artwork_title": "Untitled (Cubist Figure)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 229,
+    "artist_name": "Arshile Gorky",
+    "artwork_title": "Battle at Sunset with the God of Maize (Composition No. 1)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 230,
+    "artist_name": "Arshile Gorky",
+    "artwork_title": "Enigmatic Combat",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 231,
+    "artist_name": "Arshile Gorky",
+    "artwork_title": "Hitler invades Poland",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 232,
+    "artist_name": "Arshile Gorky",
+    "artwork_title": "Study for The Liver is the Cock's Comb",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 233,
+    "artist_name": "Arshile Gorky",
+    "artwork_title": "The Garden in Sochi",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 235,
+    "artist_name": "Arshile Gorky",
+    "artwork_title": "The Betrothal II",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 236,
+    "artist_name": "Arshile Gorky",
+    "artwork_title": "Good Hope Road",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 237,
+    "artist_name": "Barnett Newman",
+    "artwork_title": "The Blessing",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 240,
+    "artist_name": "Barnett Newman",
+    "artwork_title": "Moment",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 241,
+    "artist_name": "Barnett Newman",
+    "artwork_title": "Onement I",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 242,
+    "artist_name": "Barnett Newman",
+    "artwork_title": "Dionysius",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 243,
+    "artist_name": "Barnett Newman",
+    "artwork_title": "Untitled 3",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 244,
+    "artist_name": "Barnett Newman",
+    "artwork_title": "The Wild",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 245,
+    "artist_name": "Barnett Newman",
+    "artwork_title": "Achilles",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 246,
+    "artist_name": "Barnett Newman",
+    "artwork_title": "Ulysses",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 247,
+    "artist_name": "Jackson Pollock",
+    "artwork_title": "Going West",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 249,
+    "artist_name": "Jackson Pollock",
+    "artwork_title": "Sheet of Studies",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 250,
+    "artist_name": "Jackson Pollock",
+    "artwork_title": "Moon Woman",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 251,
+    "artist_name": "Jackson Pollock",
+    "artwork_title": "Blue (Moby Dick)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 253,
+    "artist_name": "Jackson Pollock",
+    "artwork_title": "Pattern",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 254,
+    "artist_name": "Jackson Pollock",
+    "artwork_title": "The Tea Cup",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 255,
+    "artist_name": "Jackson Pollock",
+    "artwork_title": "Full fathom five",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 256,
+    "artist_name": "Jackson Pollock",
+    "artwork_title": "Untitled (O'Connor-Thaw 771)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 258,
+    "artist_name": "Max Ernst",
+    "artwork_title": "Colorado of Medusa, Color Raft of Medusa",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 260,
+    "artist_name": "Max Ernst",
+    "artwork_title": "Fish fight",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 261,
+    "artist_name": "Max Ernst",
+    "artwork_title": "Ambiguous Figures (1 copper plate, 1 zinc plate, 1 rubber cloth...)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 262,
+    "artist_name": "Max Ernst",
+    "artwork_title": "The Chinese Nightingale",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 263,
+    "artist_name": "Max Ernst",
+    "artwork_title": "A Friends' Reunion",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 265,
+    "artist_name": "Max Ernst",
+    "artwork_title": "Saint Cecilia (Invisible piano)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 267,
+    "artist_name": "Max Ernst",
+    "artwork_title": "My Absolute",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 271,
+    "artist_name": "Fernand Léger",
+    "artwork_title": "The Great Parade (definitive state)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 273,
+    "artist_name": "Fernand Léger",
+    "artwork_title": "Builders with Rope",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 274,
+    "artist_name": "Fernand Léger",
+    "artwork_title": "Starfish",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 275,
+    "artist_name": "Fernand Léger",
+    "artwork_title": "Woman Holding a Vase (definitive state)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 276,
+    "artist_name": "Fernand Léger",
+    "artwork_title": "Men in the City",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 277,
+    "artist_name": "Fernand Léger",
+    "artwork_title": "Nude Model in the Studio",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 278,
+    "artist_name": "Fernand Léger",
+    "artwork_title": "The Smokers",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 279,
+    "artist_name": "Joan Miró",
+    "artwork_title": "The Farm",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 280,
+    "artist_name": "Joan Miró",
+    "artwork_title": "The Tilled Field",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 281,
+    "artist_name": "Joan Miró",
+    "artwork_title": "Maternity",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 283,
+    "artist_name": "Joan Miró",
+    "artwork_title": "The Smile of the Flamboyant Wings",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 284,
+    "artist_name": "Joan Miró",
+    "artwork_title": "The Beautiful Bird Revealing the Unknown to a Pair of Lovers (from the Constellation series)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 285,
+    "artist_name": "Joan Miró",
+    "artwork_title": "Portrait of a Spanish Dancer",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 286,
+    "artist_name": "Joan Miró",
+    "artwork_title": "The Table (Still Life with Rabbit)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 287,
+    "artist_name": "Joan Miró",
+    "artwork_title": "Woman (Opera Singer)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 288,
+    "artist_name": "Joan Miró",
+    "artwork_title": "Paingting",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 289,
+    "artist_name": "Joan Miró",
+    "artwork_title": "Smoker Head",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 290,
+    "artist_name": "Marc Chagall",
+    "artwork_title": "I and the Village",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 291,
+    "artist_name": "Marc Chagall",
+    "artwork_title": "In the Snow",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 292,
+    "artist_name": "Marc Chagall",
+    "artwork_title": "The Soldier Drinks",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 293,
+    "artist_name": "Marc Chagall",
+    "artwork_title": "Green Violinist",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 294,
+    "artist_name": "Marc Chagall",
+    "artwork_title": "Remembrance",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 295,
+    "artist_name": "Marc Chagall",
+    "artwork_title": "Quarrel",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 296,
+    "artist_name": "Marc Chagall",
+    "artwork_title": "The Flying Carriage",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 297,
+    "artist_name": "Marc Chagall",
+    "artwork_title": "Paris through the Window",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 298,
+    "artist_name": "Marc Chagall",
+    "artwork_title": "Rain",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 299,
+    "artist_name": "Marc Chagall",
+    "artwork_title": "The Cock",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 300,
+    "artist_name": "Marc Chagall",
+    "artwork_title": "The Madonna of the Village",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 301,
+    "artist_name": "Marc Chagall",
+    "artwork_title": "The Grey House",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 302,
+    "artist_name": "Egon Schiele",
+    "artwork_title": "Self-Portrait with Raised Bared Shoulder",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 303,
+    "artist_name": "Egon Schiele",
+    "artwork_title": "Composition with Three Male Nudes",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 304,
+    "artist_name": "Egon Schiele",
+    "artwork_title": "Hindering the Artist is a Crime, It is Murdering Life in the Bud",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 305,
+    "artist_name": "Egon Schiele",
+    "artwork_title": "Conversion",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 307,
+    "artist_name": "Egon Schiele",
+    "artwork_title": "House with Drying Laundry",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 308,
+    "artist_name": "Egon Schiele",
+    "artwork_title": "Old Brick House in Carinthia",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 309,
+    "artist_name": "Egon Schiele",
+    "artwork_title": "Portrait of an Old Man (Johann Harms)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 310,
+    "artist_name": "Egon Schiele",
+    "artwork_title": "Self-Portrait with Physalis",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 311,
+    "artist_name": "Egon Schiele",
+    "artwork_title": "Houses on the River (The Old Town)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 312,
+    "artist_name": "Egon Schiele",
+    "artwork_title": "Seated Woman with Bent Knee",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 313,
+    "artist_name": "Gustav Klimt",
+    "artwork_title": "Death and Life",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 314,
+    "artist_name": "Gustav Klimt",
+    "artwork_title": "The dancer",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 315,
+    "artist_name": "Gustav Klimt",
+    "artwork_title": "Goldfish",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 317,
+    "artist_name": "Gustav Klimt",
+    "artwork_title": "Portrait of Marie Henneberg",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 318,
+    "artist_name": "Gustav Klimt",
+    "artwork_title": "The Beethoven Frieze: The Longing for Happiness Finds Repose in Poetry. Right wall, detail",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 321,
+    "artist_name": "Gustav Klimt",
+    "artwork_title": "The Three Ages of Woman",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 322,
+    "artist_name": "Gustav Klimt",
+    "artwork_title": "Portrait of Adele Bloch-Bauer I",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 323,
+    "artist_name": "Gustav Klimt",
+    "artwork_title": "Garden with Roosters",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 324,
+    "artist_name": "Gustav Klimt",
+    "artwork_title": "The Sunflower",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 325,
+    "artist_name": "Gustav Klimt",
+    "artwork_title": "The Kiss",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  },
+  {
+    "row": 327,
+    "artist_name": "Amedeo Modigliani",
+    "artwork_title": "Serving Woman (also known as La Fantesca)",
+    "candidate_existing_doc_id": "",
+    "image_matches_count": 1,
+    "title_matches_count": 1,
+    "reason": "제목·image_url 모두 같은 기존 문서와 일치 / 동일 기존 문서를 여러 엑셀 행이 동시에 지목(재검증 중 강등)"
+  }
+]

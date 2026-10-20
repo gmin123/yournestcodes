@@ -1,0 +1,1448 @@
+[
+  {
+    "rowIndex": 112,
+    "artist_name": "Ernst Ludwig Kirchner",
+    "artwork_title": "The Drinker (self-portrait)",
+    "assigned_index": 3468
+  },
+  {
+    "rowIndex": 172,
+    "artist_name": "Alexander Calder",
+    "artwork_title": "A Piece of My Workshop",
+    "assigned_index": 3469
+  },
+  {
+    "rowIndex": 173,
+    "artist_name": "Alexander Calder",
+    "artwork_title": "BUGS AND FLOWER",
+    "assigned_index": 3470
+  },
+  {
+    "rowIndex": 174,
+    "artist_name": "Alexander Calder",
+    "artwork_title": "FETISHES",
+    "assigned_index": 3471
+  },
+  {
+    "rowIndex": 176,
+    "artist_name": "Alexander Calder",
+    "artwork_title": "Portrait de famille",
+    "assigned_index": 3472
+  },
+  {
+    "rowIndex": 177,
+    "artist_name": "Alexander Calder",
+    "artwork_title": "Just Before the Battle, Mother!",
+    "assigned_index": 3473
+  },
+  {
+    "rowIndex": 264,
+    "artist_name": "Max Ernst",
+    "artwork_title": "Katharina Ondulata",
+    "assigned_index": 3474
+  },
+  {
+    "rowIndex": 266,
+    "artist_name": "Max Ernst",
+    "artwork_title": "The Elephant Celebes",
+    "assigned_index": 3475
+  },
+  {
+    "rowIndex": 270,
+    "artist_name": "Fernand Léger",
+    "artwork_title": "La Lecture",
+    "assigned_index": 3476
+  },
+  {
+    "rowIndex": 326,
+    "artist_name": "Gustav Klimt",
+    "artwork_title": "Rosebushes under the Trees",
+    "assigned_index": 3477
+  },
+  {
+    "rowIndex": 328,
+    "artist_name": "Amedeo Modigliani",
+    "artwork_title": "Anna Zborowska",
+    "assigned_index": 3478
+  },
+  {
+    "rowIndex": 329,
+    "artist_name": "Amedeo Modigliani",
+    "artwork_title": "The Italian (L'Italienne), after Modigliani",
+    "assigned_index": 3479
+  },
+  {
+    "rowIndex": 330,
+    "artist_name": "Amedeo Modigliani",
+    "artwork_title": "Jeanne Hébuterne",
+    "assigned_index": 3480
+  },
+  {
+    "rowIndex": 331,
+    "artist_name": "Amedeo Modigliani",
+    "artwork_title": "Alice",
+    "assigned_index": 3481
+  },
+  {
+    "rowIndex": 332,
+    "artist_name": "Amedeo Modigliani",
+    "artwork_title": "Jeanne Hébuterne with Yellow Sweater",
+    "assigned_index": 3482
+  },
+  {
+    "rowIndex": 333,
+    "artist_name": "Amedeo Modigliani",
+    "artwork_title": "Portrait of a Student (L’Etudiant)",
+    "assigned_index": 3483
+  },
+  {
+    "rowIndex": 334,
+    "artist_name": "Amedeo Modigliani",
+    "artwork_title": "Chakoska",
+    "assigned_index": 3484
+  },
+  {
+    "rowIndex": 335,
+    "artist_name": "Amedeo Modigliani",
+    "artwork_title": "Madame Kisling",
+    "assigned_index": 3485
+  },
+  {
+    "rowIndex": 336,
+    "artist_name": "Amedeo Modigliani",
+    "artwork_title": "Caryatid",
+    "assigned_index": 3486
+  },
+  {
+    "rowIndex": 337,
+    "artist_name": "Amedeo Modigliani",
+    "artwork_title": "Head of a Woman",
+    "assigned_index": 3487
+  },
+  {
+    "rowIndex": 338,
+    "artist_name": "Amedeo Modigliani",
+    "artwork_title": "Jeanne Hebuterne in Red Shawl",
+    "assigned_index": 3488
+  },
+  {
+    "rowIndex": 339,
+    "artist_name": "Paul Klee",
+    "artwork_title": "Hat, Lady and Little Table",
+    "assigned_index": 3489
+  },
+  {
+    "rowIndex": 340,
+    "artist_name": "Paul Klee",
+    "artwork_title": "Magic Garden",
+    "assigned_index": 3490
+  },
+  {
+    "rowIndex": 341,
+    "artist_name": "Paul Klee",
+    "artwork_title": "Portrait of Mrs. P. in the South",
+    "assigned_index": 3491
+  },
+  {
+    "rowIndex": 342,
+    "artist_name": "Paul Klee",
+    "artwork_title": "Singer of the Comic Opera",
+    "assigned_index": 3492
+  },
+  {
+    "rowIndex": 343,
+    "artist_name": "Paul Klee",
+    "artwork_title": "Fright of a Girl",
+    "assigned_index": 3493
+  },
+  {
+    "rowIndex": 344,
+    "artist_name": "Paul Klee",
+    "artwork_title": "Flower Family V",
+    "assigned_index": 3494
+  },
+  {
+    "rowIndex": 345,
+    "artist_name": "Paul Klee",
+    "artwork_title": "Dance You Monster to My Soft Song!",
+    "assigned_index": 3495
+  },
+  {
+    "rowIndex": 346,
+    "artist_name": "Paul Klee",
+    "artwork_title": "Cat and Bird",
+    "assigned_index": 3496
+  },
+  {
+    "rowIndex": 347,
+    "artist_name": "Paul Klee",
+    "artwork_title": "Around the Fish",
+    "assigned_index": 3497
+  },
+  {
+    "rowIndex": 348,
+    "artist_name": "Paul Klee",
+    "artwork_title": "Insula Dulcamara",
+    "assigned_index": 3498
+  },
+  {
+    "rowIndex": 349,
+    "artist_name": "Paul Klee",
+    "artwork_title": "Highway and Byways",
+    "assigned_index": 3499
+  },
+  {
+    "rowIndex": 350,
+    "artist_name": "Paul Klee",
+    "artwork_title": "Fish Magic",
+    "assigned_index": 3500
+  },
+  {
+    "rowIndex": 351,
+    "artist_name": "Paul Klee",
+    "artwork_title": "Brother and Sister",
+    "assigned_index": 3501
+  },
+  {
+    "rowIndex": 352,
+    "artist_name": "Paul Klee",
+    "artwork_title": "A Young Lady's Adventure",
+    "assigned_index": 3502
+  },
+  {
+    "rowIndex": 354,
+    "artist_name": "Mark Rothko",
+    "artwork_title": "Slow Swirl at the Edge of the Sea",
+    "assigned_index": 3503
+  },
+  {
+    "rowIndex": 355,
+    "artist_name": "Mark Rothko",
+    "artwork_title": "Portrait (Untitled)",
+    "assigned_index": 3504
+  },
+  {
+    "rowIndex": 358,
+    "artist_name": "Mark Rothko",
+    "artwork_title": "Untitled (Violet, Black, Orange, Yellow on White and Red)",
+    "assigned_index": 3505
+  },
+  {
+    "rowIndex": 360,
+    "artist_name": "Mark Rothko",
+    "artwork_title": "Sacrifice",
+    "assigned_index": 3506
+  },
+  {
+    "rowIndex": 361,
+    "artist_name": "Mark Rothko",
+    "artwork_title": "Aubade",
+    "assigned_index": 3507
+  },
+  {
+    "rowIndex": 363,
+    "artist_name": "Mark Rothko",
+    "artwork_title": "No. 3/No. 13",
+    "assigned_index": 3508
+  },
+  {
+    "rowIndex": 364,
+    "artist_name": "Mark Rothko",
+    "artwork_title": "Multiform",
+    "assigned_index": 3509
+  },
+  {
+    "rowIndex": 365,
+    "artist_name": "Georgia O Keeffe",
+    "artwork_title": "Summer Days",
+    "assigned_index": 3510
+  },
+  {
+    "rowIndex": 366,
+    "artist_name": "Georgia O Keeffe",
+    "artwork_title": "The White Calico Flower",
+    "assigned_index": 3511
+  },
+  {
+    "rowIndex": 367,
+    "artist_name": "Georgia O Keeffe",
+    "artwork_title": "Music, Pink and Blue No. 2",
+    "assigned_index": 3512
+  },
+  {
+    "rowIndex": 368,
+    "artist_name": "Georgia O Keeffe",
+    "artwork_title": "Jack-in-the-Pulpit No. 3",
+    "assigned_index": 3513
+  },
+  {
+    "rowIndex": 369,
+    "artist_name": "Georgia O Keeffe",
+    "artwork_title": "Calla Lily on Grey",
+    "assigned_index": 3514
+  },
+  {
+    "rowIndex": 370,
+    "artist_name": "Georgia O Keeffe",
+    "artwork_title": "Light of Iris",
+    "assigned_index": 3515
+  },
+  {
+    "rowIndex": 371,
+    "artist_name": "Georgia O Keeffe",
+    "artwork_title": "Cottonwood Tree in Spring",
+    "assigned_index": 3516
+  },
+  {
+    "rowIndex": 372,
+    "artist_name": "Georgia O Keeffe",
+    "artwork_title": "Cottonwood III, 1943",
+    "assigned_index": 3517
+  },
+  {
+    "rowIndex": 373,
+    "artist_name": "Georgia O Keeffe",
+    "artwork_title": "Blue-Headed Indian Doll",
+    "assigned_index": 3518
+  },
+  {
+    "rowIndex": 374,
+    "artist_name": "Georgia O Keeffe",
+    "artwork_title": "Cup of Silver Ginger",
+    "assigned_index": 3519
+  },
+  {
+    "rowIndex": 375,
+    "artist_name": "Georgia O Keeffe",
+    "artwork_title": "Cebolla Church",
+    "assigned_index": 3520
+  },
+  {
+    "rowIndex": 376,
+    "artist_name": "Georgia O Keeffe",
+    "artwork_title": "Dead Tree with Pink Hill",
+    "assigned_index": 3521
+  },
+  {
+    "rowIndex": 377,
+    "artist_name": "Georgia O Keeffe",
+    "artwork_title": "Yellow Hickory Leaves with Daisy",
+    "assigned_index": 3522
+  },
+  {
+    "rowIndex": 378,
+    "artist_name": "Edward Hopper",
+    "artwork_title": "South Carolina Morning",
+    "assigned_index": 3523
+  },
+  {
+    "rowIndex": 379,
+    "artist_name": "Edward Hopper",
+    "artwork_title": "Woman at Cafe Table",
+    "assigned_index": 3524
+  },
+  {
+    "rowIndex": 380,
+    "artist_name": "Edward Hopper",
+    "artwork_title": "Blackwell's Island",
+    "assigned_index": 3525
+  },
+  {
+    "rowIndex": 381,
+    "artist_name": "Edward Hopper",
+    "artwork_title": "Corn Hill",
+    "assigned_index": 3526
+  },
+  {
+    "rowIndex": 382,
+    "artist_name": "Edward Hopper",
+    "artwork_title": "The Long Leg",
+    "assigned_index": 3527
+  },
+  {
+    "rowIndex": 383,
+    "artist_name": "Edward Hopper",
+    "artwork_title": "First Branch of the White River, Vermont",
+    "assigned_index": 3528
+  },
+  {
+    "rowIndex": 384,
+    "artist_name": "Edward Hopper",
+    "artwork_title": "New York, New Haven and Hartford",
+    "assigned_index": 3529
+  },
+  {
+    "rowIndex": 385,
+    "artist_name": "Edward Hopper",
+    "artwork_title": "Nighthawks",
+    "assigned_index": 3530
+  },
+  {
+    "rowIndex": 386,
+    "artist_name": "Edward Hopper",
+    "artwork_title": "Gas",
+    "assigned_index": 3531
+  },
+  {
+    "rowIndex": 387,
+    "artist_name": "Edward Hopper",
+    "artwork_title": "Ground Swell",
+    "assigned_index": 3532
+  },
+  {
+    "rowIndex": 388,
+    "artist_name": "Edward Hopper",
+    "artwork_title": "Room by the Sea",
+    "assigned_index": 3533
+  },
+  {
+    "rowIndex": 389,
+    "artist_name": "Kazimir Malevich",
+    "artwork_title": "The wedding",
+    "assigned_index": 3534
+  },
+  {
+    "rowIndex": 390,
+    "artist_name": "Kazimir Malevich",
+    "artwork_title": "Three women on the road",
+    "assigned_index": 3535
+  },
+  {
+    "rowIndex": 391,
+    "artist_name": "Kazimir Malevich",
+    "artwork_title": "Reapers",
+    "assigned_index": 3536
+  },
+  {
+    "rowIndex": 392,
+    "artist_name": "Kazimir Malevich",
+    "artwork_title": "Suprematism",
+    "assigned_index": 3537
+  },
+  {
+    "rowIndex": 393,
+    "artist_name": "Kazimir Malevich",
+    "artwork_title": "Look, Vistula is Near Poster",
+    "assigned_index": 3538
+  },
+  {
+    "rowIndex": 394,
+    "artist_name": "Kazimir Malevich",
+    "artwork_title": "The Knife Grinder",
+    "assigned_index": 3539
+  },
+  {
+    "rowIndex": 395,
+    "artist_name": "Kazimir Malevich",
+    "artwork_title": "Peasant Woman with Buckets and a Child",
+    "assigned_index": 3540
+  },
+  {
+    "rowIndex": 396,
+    "artist_name": "Kazimir Malevich",
+    "artwork_title": "Mower",
+    "assigned_index": 3541
+  },
+  {
+    "rowIndex": 397,
+    "artist_name": "Kazimir Malevich",
+    "artwork_title": "Taking in the Harvest",
+    "assigned_index": 3542
+  },
+  {
+    "rowIndex": 398,
+    "artist_name": "Kazimir Malevich",
+    "artwork_title": "Gardener",
+    "assigned_index": 3543
+  },
+  {
+    "rowIndex": 399,
+    "artist_name": "Kazimir Malevich",
+    "artwork_title": "Floor Polishers",
+    "assigned_index": 3544
+  },
+  {
+    "rowIndex": 400,
+    "artist_name": "Piet Mondrian",
+    "artwork_title": "New York City, 3 (unfinished)",
+    "assigned_index": 3545
+  },
+  {
+    "rowIndex": 401,
+    "artist_name": "Piet Mondrian",
+    "artwork_title": "Composition in Color A",
+    "assigned_index": 3546
+  },
+  {
+    "rowIndex": 402,
+    "artist_name": "Piet Mondrian",
+    "artwork_title": "The Red Tree",
+    "assigned_index": 3547
+  },
+  {
+    "rowIndex": 403,
+    "artist_name": "Piet Mondrian",
+    "artwork_title": "Farm Sun",
+    "assigned_index": 3548
+  },
+  {
+    "rowIndex": 404,
+    "artist_name": "Piet Mondrian",
+    "artwork_title": "Woods near Oele",
+    "assigned_index": 3549
+  },
+  {
+    "rowIndex": 405,
+    "artist_name": "Piet Mondrian",
+    "artwork_title": "Passionflower",
+    "assigned_index": 3550
+  },
+  {
+    "rowIndex": 406,
+    "artist_name": "Piet Mondrian",
+    "artwork_title": "Farm near Duivendrecht",
+    "assigned_index": 3551
+  },
+  {
+    "rowIndex": 407,
+    "artist_name": "Piet Mondrian",
+    "artwork_title": "Still Life with Gingerpot II",
+    "assigned_index": 3552
+  },
+  {
+    "rowIndex": 408,
+    "artist_name": "Piet Mondrian",
+    "artwork_title": "Tableau No. 2/Composition No. VII",
+    "assigned_index": 3553
+  },
+  {
+    "rowIndex": 409,
+    "artist_name": "Piet Mondrian",
+    "artwork_title": "Composition with Large Red Plane, Yellow, Black, Gray and Blue",
+    "assigned_index": 3554
+  },
+  {
+    "rowIndex": 410,
+    "artist_name": "Wassily Kandinsky",
+    "artwork_title": "Grouping",
+    "assigned_index": 3555
+  },
+  {
+    "rowIndex": 411,
+    "artist_name": "Wassily Kandinsky",
+    "artwork_title": "Mit Und Gegen",
+    "assigned_index": 3556
+  },
+  {
+    "rowIndex": 412,
+    "artist_name": "Wassily Kandinsky",
+    "artwork_title": "Picture XVI, The Great Gate of Kyiv. Stage set for Mussorgsky's Pictures at an Exhibition in Friedrich Theater, Dessau.",
+    "assigned_index": 3557
+  },
+  {
+    "rowIndex": 413,
+    "artist_name": "Wassily Kandinsky",
+    "artwork_title": "Blue",
+    "assigned_index": 3558
+  },
+  {
+    "rowIndex": 414,
+    "artist_name": "Wassily Kandinsky",
+    "artwork_title": "Transverse Line",
+    "assigned_index": 3559
+  },
+  {
+    "rowIndex": 415,
+    "artist_name": "Wassily Kandinsky",
+    "artwork_title": "Small worlds II",
+    "assigned_index": 3560
+  },
+  {
+    "rowIndex": 416,
+    "artist_name": "Wassily Kandinsky",
+    "artwork_title": "In Grey",
+    "assigned_index": 3561
+  },
+  {
+    "rowIndex": 417,
+    "artist_name": "Wassily Kandinsky",
+    "artwork_title": "Color Study: Squares with Concentric Circles",
+    "assigned_index": 3562
+  },
+  {
+    "rowIndex": 418,
+    "artist_name": "Wassily Kandinsky",
+    "artwork_title": "Lady in Moscow",
+    "assigned_index": 3563
+  },
+  {
+    "rowIndex": 419,
+    "artist_name": "Wassily Kandinsky",
+    "artwork_title": "All Saints day I",
+    "assigned_index": 3564
+  },
+  {
+    "rowIndex": 420,
+    "artist_name": "Wassily Kandinsky",
+    "artwork_title": "304",
+    "assigned_index": 3565
+  },
+  {
+    "rowIndex": 421,
+    "artist_name": "Henri Matisse",
+    "artwork_title": "Dance (I)",
+    "assigned_index": 3566
+  },
+  {
+    "rowIndex": 422,
+    "artist_name": "Henri Matisse",
+    "artwork_title": "The Red Studio",
+    "assigned_index": 3567
+  },
+  {
+    "rowIndex": 423,
+    "artist_name": "Henri Matisse",
+    "artwork_title": "Apollo",
+    "assigned_index": 3568
+  },
+  {
+    "rowIndex": 424,
+    "artist_name": "Henri Matisse",
+    "artwork_title": "Blue Nude II",
+    "assigned_index": 3569
+  },
+  {
+    "rowIndex": 425,
+    "artist_name": "Henri Matisse",
+    "artwork_title": "Interior with Black Fern",
+    "assigned_index": 3570
+  },
+  {
+    "rowIndex": 427,
+    "artist_name": "Henri Matisse",
+    "artwork_title": "Dancer in Repose",
+    "assigned_index": 3571
+  },
+  {
+    "rowIndex": 428,
+    "artist_name": "Henri Matisse",
+    "artwork_title": "The Conservatory",
+    "assigned_index": 3572
+  },
+  {
+    "rowIndex": 429,
+    "artist_name": "Henri Matisse",
+    "artwork_title": "The Blue Window",
+    "assigned_index": 3573
+  },
+  {
+    "rowIndex": 431,
+    "artist_name": "Henri Matisse",
+    "artwork_title": "Study for Wildlife. The man with the cluster",
+    "assigned_index": 3574
+  },
+  {
+    "rowIndex": 432,
+    "artist_name": "Henri Matisse",
+    "artwork_title": "Place des Lices, St. Tropez",
+    "assigned_index": 3575
+  },
+  {
+    "rowIndex": 433,
+    "artist_name": "Frida Kahlo",
+    "artwork_title": "Pitahayas",
+    "assigned_index": 3576
+  },
+  {
+    "rowIndex": 434,
+    "artist_name": "Frida Kahlo",
+    "artwork_title": "Memory (The Heart)",
+    "assigned_index": 3577
+  },
+  {
+    "rowIndex": 435,
+    "artist_name": "Frida Kahlo",
+    "artwork_title": "Self Portrait with Monkey",
+    "assigned_index": 3578
+  },
+  {
+    "rowIndex": 436,
+    "artist_name": "Frida Kahlo",
+    "artwork_title": "Itzcuintli Dog with Me",
+    "assigned_index": 3579
+  },
+  {
+    "rowIndex": 437,
+    "artist_name": "Frida Kahlo",
+    "artwork_title": "Portrait of Lucha Maria, A Girl from Tehuacan",
+    "assigned_index": 3580
+  },
+  {
+    "rowIndex": 438,
+    "artist_name": "Frida Kahlo",
+    "artwork_title": "Self Portrait with Necklace of Thorns",
+    "assigned_index": 3581
+  },
+  {
+    "rowIndex": 439,
+    "artist_name": "Frida Kahlo",
+    "artwork_title": "Memory (The Heart)",
+    "assigned_index": 3582
+  },
+  {
+    "rowIndex": 440,
+    "artist_name": "Frida Kahlo",
+    "artwork_title": "The Little Deer",
+    "assigned_index": 3583
+  },
+  {
+    "rowIndex": 441,
+    "artist_name": "Frida Kahlo",
+    "artwork_title": "The Love Embrace of the Universe, the Earth (Mexico), Myself, Diego and Señor Xólotl",
+    "assigned_index": 3584
+  },
+  {
+    "rowIndex": 442,
+    "artist_name": "Frida Kahlo",
+    "artwork_title": "Self-Portrait Along the Border Line Between Mexico and the United States",
+    "assigned_index": 3585
+  },
+  {
+    "rowIndex": 443,
+    "artist_name": "Frida Kahlo",
+    "artwork_title": "Portrait of Luther Burbank",
+    "assigned_index": 3586
+  },
+  {
+    "rowIndex": 444,
+    "artist_name": "Frida Kahlo",
+    "artwork_title": "The Deceased Dimas",
+    "assigned_index": 3587
+  },
+  {
+    "rowIndex": 445,
+    "artist_name": "Frida Kahlo",
+    "artwork_title": "My Dress Hangs There",
+    "assigned_index": 3588
+  },
+  {
+    "rowIndex": 446,
+    "artist_name": "Frida Kahlo",
+    "artwork_title": "Self Portrait Dedicated to Sigmund Firestone",
+    "assigned_index": 3589
+  },
+  {
+    "rowIndex": 447,
+    "artist_name": "Salvador Dalí",
+    "artwork_title": "The Persistence of Memory",
+    "assigned_index": 3590
+  },
+  {
+    "rowIndex": 448,
+    "artist_name": "Salvador Dalí",
+    "artwork_title": "The Madonna of Port Lligat",
+    "assigned_index": 3591
+  },
+  {
+    "rowIndex": 449,
+    "artist_name": "Salvador Dalí",
+    "artwork_title": "Post-Impressionism",
+    "assigned_index": 3592
+  },
+  {
+    "rowIndex": 452,
+    "artist_name": "Salvador Dalí",
+    "artwork_title": "The Bay of Cadaqués",
+    "assigned_index": 3593
+  },
+  {
+    "rowIndex": 453,
+    "artist_name": "Salvador Dalí",
+    "artwork_title": "Cadaqués",
+    "assigned_index": 3594
+  },
+  {
+    "rowIndex": 454,
+    "artist_name": "Salvador Dalí",
+    "artwork_title": "Cartell (Poster)",
+    "assigned_index": 3595
+  },
+  {
+    "rowIndex": 455,
+    "artist_name": "Salvador Dalí",
+    "artwork_title": "Gypsy from Figueres",
+    "assigned_index": 3596
+  },
+  {
+    "rowIndex": 456,
+    "artist_name": "Salvador Dalí",
+    "artwork_title": "Figura en una finestra (Figure at a Window)",
+    "assigned_index": 3597
+  },
+  {
+    "rowIndex": 457,
+    "artist_name": "Salvador Dalí",
+    "artwork_title": "Portrait of Mrs. Jack Warner",
+    "assigned_index": 3598
+  },
+  {
+    "rowIndex": 458,
+    "artist_name": "Salvador Dalí",
+    "artwork_title": "The Three Sphinxes of Bikini",
+    "assigned_index": 3599
+  },
+  {
+    "rowIndex": 459,
+    "artist_name": "Pablo Picasso",
+    "artwork_title": "Ascet",
+    "assigned_index": 3600
+  },
+  {
+    "rowIndex": 460,
+    "artist_name": "Pablo Picasso",
+    "artwork_title": "Boy Leading a Horse",
+    "assigned_index": 3601
+  },
+  {
+    "rowIndex": 461,
+    "artist_name": "Pablo Picasso",
+    "artwork_title": "Les Demoiselles d'Avignon",
+    "assigned_index": 3602
+  },
+  {
+    "rowIndex": 462,
+    "artist_name": "Pablo Picasso",
+    "artwork_title": "The Kitchen",
+    "assigned_index": 3603
+  },
+  {
+    "rowIndex": 463,
+    "artist_name": "Pablo Picasso",
+    "artwork_title": "Firsts steps",
+    "assigned_index": 3604
+  },
+  {
+    "rowIndex": 464,
+    "artist_name": "Pablo Picasso",
+    "artwork_title": "Woman with spanish dress",
+    "assigned_index": 3605
+  },
+  {
+    "rowIndex": 465,
+    "artist_name": "Pablo Picasso",
+    "artwork_title": "Lovers",
+    "assigned_index": 3606
+  },
+  {
+    "rowIndex": 466,
+    "artist_name": "Pablo Picasso",
+    "artwork_title": "Reading",
+    "assigned_index": 3607
+  },
+  {
+    "rowIndex": 467,
+    "artist_name": "Pablo Picasso",
+    "artwork_title": "A dream",
+    "assigned_index": 3608
+  },
+  {
+    "rowIndex": 468,
+    "artist_name": "Pablo Picasso",
+    "artwork_title": "Interior with girl drawing",
+    "assigned_index": 3609
+  },
+  {
+    "rowIndex": 469,
+    "artist_name": "Pablo Picasso",
+    "artwork_title": "The old blind guitarist",
+    "assigned_index": 3610
+  },
+  {
+    "rowIndex": 470,
+    "artist_name": "Edvard Munch",
+    "artwork_title": "The Scream",
+    "assigned_index": 3611
+  },
+  {
+    "rowIndex": 471,
+    "artist_name": "Edvard Munch",
+    "artwork_title": "Self-portrait. Between the clock and the bed",
+    "assigned_index": 3612
+  },
+  {
+    "rowIndex": 472,
+    "artist_name": "Edvard Munch",
+    "artwork_title": "Woman on the Verandah",
+    "assigned_index": 3613
+  },
+  {
+    "rowIndex": 473,
+    "artist_name": "Edvard Munch",
+    "artwork_title": "Workers in the Snow",
+    "assigned_index": 3614
+  },
+  {
+    "rowIndex": 474,
+    "artist_name": "Edvard Munch",
+    "artwork_title": "Summer Night (Inger on the Shore)",
+    "assigned_index": 3615
+  },
+  {
+    "rowIndex": 475,
+    "artist_name": "Edvard Munch",
+    "artwork_title": "Aunt Karen in the Rocking Chair",
+    "assigned_index": 3616
+  },
+  {
+    "rowIndex": 476,
+    "artist_name": "Edvard Munch",
+    "artwork_title": "Snow Falling in the Lane",
+    "assigned_index": 3617
+  },
+  {
+    "rowIndex": 477,
+    "artist_name": "Edvard Munch",
+    "artwork_title": "The Girls on the Bridge",
+    "assigned_index": 3618
+  },
+  {
+    "rowIndex": 478,
+    "artist_name": "Edvard Munch",
+    "artwork_title": "Friedrich Nietzsche",
+    "assigned_index": 3619
+  },
+  {
+    "rowIndex": 479,
+    "artist_name": "Edvard Munch",
+    "artwork_title": "Golgotha",
+    "assigned_index": 3620
+  },
+  {
+    "rowIndex": 481,
+    "artist_name": "Franz Marc",
+    "artwork_title": "Deer in the Snow",
+    "assigned_index": 3621
+  },
+  {
+    "rowIndex": 482,
+    "artist_name": "Franz Marc",
+    "artwork_title": "The Yellow Cow",
+    "assigned_index": 3622
+  },
+  {
+    "rowIndex": 483,
+    "artist_name": "Franz Marc",
+    "artwork_title": "The Unfortunate Land of Tyrol",
+    "assigned_index": 3623
+  },
+  {
+    "rowIndex": 484,
+    "artist_name": "Franz Marc",
+    "artwork_title": "Animals in a Landscape",
+    "assigned_index": 3624
+  },
+  {
+    "rowIndex": 485,
+    "artist_name": "Franz Marc",
+    "artwork_title": "Sheaf of Grain",
+    "assigned_index": 3625
+  },
+  {
+    "rowIndex": 486,
+    "artist_name": "Franz Marc",
+    "artwork_title": "Girl with Cat II",
+    "assigned_index": 3626
+  },
+  {
+    "rowIndex": 487,
+    "artist_name": "Franz Marc",
+    "artwork_title": "Deer in the Forest",
+    "assigned_index": 3627
+  },
+  {
+    "rowIndex": 488,
+    "artist_name": "Franz Marc",
+    "artwork_title": "Two Horses",
+    "assigned_index": 3628
+  },
+  {
+    "rowIndex": 489,
+    "artist_name": "Franz Marc",
+    "artwork_title": "White Bull",
+    "assigned_index": 3629
+  },
+  {
+    "rowIndex": 490,
+    "artist_name": "Franz Marc",
+    "artwork_title": "Weasels Playing",
+    "assigned_index": 3630
+  },
+  {
+    "rowIndex": 491,
+    "artist_name": "Hilma af Klint",
+    "artwork_title": "They tens mainstay IV",
+    "assigned_index": 3631
+  },
+  {
+    "rowIndex": 492,
+    "artist_name": "Hilma af Klint",
+    "artwork_title": "Adulthood (No. 7, Group IV, The Ten Largest)",
+    "assigned_index": 3632
+  },
+  {
+    "rowIndex": 493,
+    "artist_name": "Hilma af Klint",
+    "artwork_title": "The Ten Largest",
+    "assigned_index": 3633
+  },
+  {
+    "rowIndex": 494,
+    "artist_name": "Hilma af Klint",
+    "artwork_title": "Tree of Knowledge No.2 Series W",
+    "assigned_index": 3634
+  },
+  {
+    "rowIndex": 495,
+    "artist_name": "Hilma af Klint",
+    "artwork_title": "What a Human Being Is",
+    "assigned_index": 3635
+  },
+  {
+    "rowIndex": 496,
+    "artist_name": "Hilma af Klint",
+    "artwork_title": "Svanen",
+    "assigned_index": 3636
+  },
+  {
+    "rowIndex": 497,
+    "artist_name": "Hilma af Klint",
+    "artwork_title": "The Swan (No. 1)",
+    "assigned_index": 3637
+  },
+  {
+    "rowIndex": 498,
+    "artist_name": "Hilma af Klint",
+    "artwork_title": "Altarpiece No. 1, Group X",
+    "assigned_index": 3638
+  },
+  {
+    "rowIndex": 499,
+    "artist_name": "Hilma af Klint",
+    "artwork_title": "The Dove, Nr. 12",
+    "assigned_index": 3639
+  },
+  {
+    "rowIndex": 501,
+    "artist_name": "Hilma af Klint",
+    "artwork_title": "Tree of Knowledge (1913)",
+    "assigned_index": 3640
+  },
+  {
+    "rowIndex": 502,
+    "artist_name": "Raoul Dufy",
+    "artwork_title": "Boats at Martigues",
+    "assigned_index": 3641
+  },
+  {
+    "rowIndex": 503,
+    "artist_name": "Raoul Dufy",
+    "artwork_title": "Acrobats",
+    "assigned_index": 3642
+  },
+  {
+    "rowIndex": 504,
+    "artist_name": "Raoul Dufy",
+    "artwork_title": "Anemones",
+    "assigned_index": 3643
+  },
+  {
+    "rowIndex": 505,
+    "artist_name": "Raoul Dufy",
+    "artwork_title": "The Yellow Console with a Violin",
+    "assigned_index": 3644
+  },
+  {
+    "rowIndex": 506,
+    "artist_name": "Raoul Dufy",
+    "artwork_title": "The sea in Deauville",
+    "assigned_index": 3645
+  },
+  {
+    "rowIndex": 507,
+    "artist_name": "Raoul Dufy",
+    "artwork_title": "The Three Umbrellas",
+    "assigned_index": 3646
+  },
+  {
+    "rowIndex": 508,
+    "artist_name": "Raoul Dufy",
+    "artwork_title": "Anglers",
+    "assigned_index": 3647
+  },
+  {
+    "rowIndex": 509,
+    "artist_name": "Raoul Dufy",
+    "artwork_title": "Boats at Martigues",
+    "assigned_index": 3648
+  },
+  {
+    "rowIndex": 510,
+    "artist_name": "Raoul Dufy",
+    "artwork_title": "Vence",
+    "assigned_index": 3649
+  },
+  {
+    "rowIndex": 511,
+    "artist_name": "Raoul Dufy",
+    "artwork_title": "Poiret's Mannequins at the Race Track in 1923",
+    "assigned_index": 3650
+  },
+  {
+    "rowIndex": 512,
+    "artist_name": "Raoul Dufy",
+    "artwork_title": "Posters at Trouville 1906",
+    "assigned_index": 3651
+  },
+  {
+    "rowIndex": 513,
+    "artist_name": "Raoul Dufy",
+    "artwork_title": "Orchestra",
+    "assigned_index": 3652
+  },
+  {
+    "rowIndex": 514,
+    "artist_name": "Raoul Dufy",
+    "artwork_title": "Window at Nice c. 1929",
+    "assigned_index": 3653
+  },
+  {
+    "rowIndex": 515,
+    "artist_name": "Alphonse Mucha",
+    "artwork_title": "Moonlight",
+    "assigned_index": 3654
+  },
+  {
+    "rowIndex": 516,
+    "artist_name": "Alphonse Mucha",
+    "artwork_title": "Fairy With Iris Bleeding",
+    "assigned_index": 3655
+  },
+  {
+    "rowIndex": 517,
+    "artist_name": "Alphonse Mucha",
+    "artwork_title": "The Slav Epic",
+    "assigned_index": 3656
+  },
+  {
+    "rowIndex": 519,
+    "artist_name": "Alphonse Mucha",
+    "artwork_title": "Jan Amos Komenský - A Glimmer of Hope",
+    "assigned_index": 3657
+  },
+  {
+    "rowIndex": 520,
+    "artist_name": "Alphonse Mucha",
+    "artwork_title": "Woman in the Wilderness",
+    "assigned_index": 3658
+  },
+  {
+    "rowIndex": 521,
+    "artist_name": "Alphonse Mucha",
+    "artwork_title": "Emerald",
+    "assigned_index": 3659
+  },
+  {
+    "rowIndex": 522,
+    "artist_name": "Alphonse Mucha",
+    "artwork_title": "Ruby",
+    "assigned_index": 3660
+  },
+  {
+    "rowIndex": 524,
+    "artist_name": "Alphonse Mucha",
+    "artwork_title": "Madonna of the Lilies",
+    "assigned_index": 3661
+  },
+  {
+    "rowIndex": 525,
+    "artist_name": "Léon Bakst",
+    "artwork_title": "Costume design for the ballet The Firebird ( L'Oiseau de feu )",
+    "assigned_index": 3662
+  },
+  {
+    "rowIndex": 526,
+    "artist_name": "Léon Bakst",
+    "artwork_title": "The Supper",
+    "assigned_index": 3663
+  },
+  {
+    "rowIndex": 527,
+    "artist_name": "Léon Bakst",
+    "artwork_title": "Costume design for the ballet \"Cleopatra\"",
+    "assigned_index": 3664
+  },
+  {
+    "rowIndex": 528,
+    "artist_name": "Léon Bakst",
+    "artwork_title": "Scheherazade shah shahriar",
+    "assigned_index": 3665
+  },
+  {
+    "rowIndex": 529,
+    "artist_name": "Léon Bakst",
+    "artwork_title": "Le sultan vindicatif",
+    "assigned_index": 3666
+  },
+  {
+    "rowIndex": 530,
+    "artist_name": "Léon Bakst",
+    "artwork_title": "The Sleeping Beauty: Eastern Prince and His Page",
+    "assigned_index": 3667
+  },
+  {
+    "rowIndex": 531,
+    "artist_name": "Léon Bakst",
+    "artwork_title": "Nijinsky's Faun Costume in 'L'Apres Midi d'un Faune' by Claude Debussy from the front cover of the programme for the 7th season of the 'Ballets Russes'",
+    "assigned_index": 3668
+  },
+  {
+    "rowIndex": 532,
+    "artist_name": "Léon Bakst",
+    "artwork_title": "Le dieu bleu bayadere",
+    "assigned_index": 3669
+  },
+  {
+    "rowIndex": 533,
+    "artist_name": "Léon Bakst",
+    "artwork_title": "Le dieu bleu: A Pilgrim",
+    "assigned_index": 3670
+  },
+  {
+    "rowIndex": 534,
+    "artist_name": "Léon Bakst",
+    "artwork_title": "Helene de Sparte act II set design",
+    "assigned_index": 3671
+  },
+  {
+    "rowIndex": 535,
+    "artist_name": "Léon Bakst",
+    "artwork_title": "Operatic costume designs",
+    "assigned_index": 3672
+  },
+  {
+    "rowIndex": 536,
+    "artist_name": "Léon Bakst",
+    "artwork_title": "Costume design for a bacchante in \"Narcisse\" by Tcherepnin",
+    "assigned_index": 3673
+  },
+  {
+    "rowIndex": 537,
+    "artist_name": "Léon Bakst",
+    "artwork_title": "Istar Ida Rubinstein as Istar",
+    "assigned_index": 3674
+  },
+  {
+    "rowIndex": 538,
+    "artist_name": "Léon Bakst",
+    "artwork_title": "Russian peasant woman",
+    "assigned_index": 3675
+  },
+  {
+    "rowIndex": 539,
+    "artist_name": "Louise Bourgeois",
+    "artwork_title": "ROOF SONG",
+    "assigned_index": 3676
+  },
+  {
+    "rowIndex": 542,
+    "artist_name": "Louise Bourgeois",
+    "artwork_title": "Fallen Woman (Femme Maison)",
+    "assigned_index": 3677
+  },
+  {
+    "rowIndex": 544,
+    "artist_name": "Henry Moore",
+    "artwork_title": "Storm at Whitby, North Yorkshire",
+    "assigned_index": 3678
+  },
+  {
+    "rowIndex": 545,
+    "artist_name": "Henry Moore",
+    "artwork_title": "Crossing the Bar",
+    "assigned_index": 3679
+  },
+  {
+    "rowIndex": 546,
+    "artist_name": "Henry Moore",
+    "artwork_title": "Rounding the Ness, Lowestoft",
+    "assigned_index": 3680
+  },
+  {
+    "rowIndex": 547,
+    "artist_name": "Henry Moore",
+    "artwork_title": "A Sunbeam over the Sea",
+    "assigned_index": 3681
+  },
+  {
+    "rowIndex": 548,
+    "artist_name": "Henry Moore",
+    "artwork_title": "Summer Breeze in the Channel",
+    "assigned_index": 3682
+  },
+  {
+    "rowIndex": 549,
+    "artist_name": "Henry Moore",
+    "artwork_title": "Three Seated Figures",
+    "assigned_index": 3683
+  },
+  {
+    "rowIndex": 550,
+    "artist_name": "Henry Moore",
+    "artwork_title": "Tube Shelter Perspective: The Liverpool Street Extension",
+    "assigned_index": 3684
+  },
+  {
+    "rowIndex": 551,
+    "artist_name": "Henry Moore",
+    "artwork_title": "Air Raid Shelter: Two Seated Women",
+    "assigned_index": 3685
+  },
+  {
+    "rowIndex": 552,
+    "artist_name": "Henry Moore",
+    "artwork_title": "Sculptural Objects",
+    "assigned_index": 3686
+  },
+  {
+    "rowIndex": 554,
+    "artist_name": "Henry Moore",
+    "artwork_title": "Seated Woman with Seated Figure in Background",
+    "assigned_index": 3687
+  },
+  {
+    "rowIndex": 555,
+    "artist_name": "John William Waterhouse",
+    "artwork_title": "Thisbe",
+    "assigned_index": 3688
+  },
+  {
+    "rowIndex": 556,
+    "artist_name": "John William Waterhouse",
+    "artwork_title": "Resting",
+    "assigned_index": 3689
+  },
+  {
+    "rowIndex": 557,
+    "artist_name": "John William Waterhouse",
+    "artwork_title": "Boreas",
+    "assigned_index": 3690
+  },
+  {
+    "rowIndex": 558,
+    "artist_name": "John William Waterhouse",
+    "artwork_title": "Ulysses and the Sirens",
+    "assigned_index": 3691
+  },
+  {
+    "rowIndex": 559,
+    "artist_name": "John William Waterhouse",
+    "artwork_title": "Psyche Opening the Golden Box",
+    "assigned_index": 3692
+  },
+  {
+    "rowIndex": 560,
+    "artist_name": "John William Waterhouse",
+    "artwork_title": "Nymphs Finding the Head of Orpheus",
+    "assigned_index": 3693
+  },
+  {
+    "rowIndex": 561,
+    "artist_name": "John William Waterhouse",
+    "artwork_title": "A Roman Offering",
+    "assigned_index": 3694
+  },
+  {
+    "rowIndex": 562,
+    "artist_name": "John William Waterhouse",
+    "artwork_title": "Study for 'The Lady Clare'",
+    "assigned_index": 3695
+  },
+  {
+    "rowIndex": 563,
+    "artist_name": "John William Waterhouse",
+    "artwork_title": "Diogenes",
+    "assigned_index": 3696
+  },
+  {
+    "rowIndex": 564,
+    "artist_name": "John William Waterhouse",
+    "artwork_title": "It's Sweet Doing Nothing",
+    "assigned_index": 3697
+  },
+  {
+    "rowIndex": 565,
+    "artist_name": "Glovanni Boldini",
+    "artwork_title": "The Woman in Red",
+    "assigned_index": 3698
+  },
+  {
+    "rowIndex": 566,
+    "artist_name": "Glovanni Boldini",
+    "artwork_title": "Lady with Black Greyhound",
+    "assigned_index": 3699
+  },
+  {
+    "rowIndex": 567,
+    "artist_name": "Glovanni Boldini",
+    "artwork_title": "The Black Sash",
+    "assigned_index": 3700
+  },
+  {
+    "rowIndex": 568,
+    "artist_name": "Glovanni Boldini",
+    "artwork_title": "The Machine de Marly",
+    "assigned_index": 3701
+  },
+  {
+    "rowIndex": 569,
+    "artist_name": "Glovanni Boldini",
+    "artwork_title": "Newspaperman in Paris (The newspaper)",
+    "assigned_index": 3702
+  },
+  {
+    "rowIndex": 570,
+    "artist_name": "Glovanni Boldini",
+    "artwork_title": "Signorina Concha de Ossa",
+    "assigned_index": 3703
+  },
+  {
+    "rowIndex": 571,
+    "artist_name": "Glovanni Boldini",
+    "artwork_title": "The Lady Pianist",
+    "assigned_index": 3704
+  },
+  {
+    "rowIndex": 572,
+    "artist_name": "Glovanni Boldini",
+    "artwork_title": "The pianist Alexandre Rey Colaço",
+    "assigned_index": 3705
+  },
+  {
+    "rowIndex": 573,
+    "artist_name": "Glovanni Boldini",
+    "artwork_title": "Apples 'Calville Blanc d'hiver'",
+    "assigned_index": 3706
+  },
+  {
+    "rowIndex": 574,
+    "artist_name": "Glovanni Boldini",
+    "artwork_title": "Crossing the Street",
+    "assigned_index": 3707
+  },
+  {
+    "rowIndex": 575,
+    "artist_name": "Glovanni Boldini",
+    "artwork_title": "Return of the Fishing Boats, Étretat",
+    "assigned_index": 3708
+  }
+]
